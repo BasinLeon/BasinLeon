@@ -11,13 +11,13 @@
 
 *   Advanced Python techniques for data analysis and visualization 📊
 *   SQL for efficient data querying and management 🗄️
-*   JavaScript for interactive web development and data visualization** 🌐
+*   JavaScript for interactive web development and data visualization 🌐
 
 **I'm looking to collaborate on ...**
 
 *   Projects that leverage data to drive business growth and innovation 📈
 *   Open-source initiatives that empower sales and marketing professionals 🤝
-*   Creative endeavors that blend technology, storytelling, and human connection✍️
+*   Creative endeavors that blend technology, storytelling, and human connection ✍️
 
 **How to reach me**
 
