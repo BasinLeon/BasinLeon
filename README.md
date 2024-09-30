@@ -21,7 +21,7 @@
 
 **How to reach me**
 
-*   Connect with me on LinkedIn: [[Your LinkedIn Profile ](https://www.linkedin.com/in/leonbasin/)URL]
+*   Connect with me on LinkedIn: [[(https://www.linkedin.com/in/leonbasin/ ])]
 *   Follow me on X (formerly Twitter): [@basin_leon](https://www.x.com/basin_leon)
 *   Visit my website: [www.basinleon.com](https://www.basinleon.com)
 
