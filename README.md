@@ -1,4 +1,4 @@
-## 🎯 The Revenue Architect (Ex-Fudo Security, Google, Hewlett Packard, Survey Monkey & Sense)
+## 🎯 The Revenue Architect (Ex-Fudo Security, Google, Hewlett Packard, NetApp, SurveyMonkey & Sense)
 
 I build data-driven GTM systems that bridge engineering complexity with commercial velocity. My focus is on scaling revenue by eliminating operational friction.
 
