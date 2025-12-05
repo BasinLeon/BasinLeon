@@ -1,4 +1,4 @@
-## 🎯 The Revenue Architect (Ex-Fudo, Google, Hewlett Packard, Sense)
+## 🎯 The Revenue Architect (Ex-Fudo, Google, Hewlett Packard and Sense)
 
 I build data-driven GTM systems that bridge engineering complexity with commercial velocity. My focus is on scaling revenue by eliminating operational friction.
 
@@ -27,6 +27,6 @@ My active project uses Python and Streamlit to score pipeline signals. It's my i
 ---
 
 ### 🤝 How to Connect
-* **LinkedIn:** [https://www.linkedin.com/in/leonbasin/](https://www.linkedin.com/in/leonbasin/)
-* **Portfolio & Demo:** [www.basinleon.com](www.basinleon.com)
-* **X (formerly Twitter):** @basin_leon
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/leonbasin/)
+* **Portfolio & Demo:** [Portfolio Site](https://basinleon.github.io/)
+* **X (formerly Twitter):** [X Profile](https://x.com/basin_leon)
