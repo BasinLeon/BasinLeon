@@ -1,4 +1,4 @@
-## 🎯 The Revenue Architect (Ex-Fudo, Google, SurveyMonkey, Hewlett Packard and Sense)
+## 🎯 The Revenue Architect (Ex-Fudo, Google, Hewlett Packard, Survey Monkey & Sense)
 
 I build data-driven GTM systems that bridge engineering complexity with commercial velocity. My focus is on scaling revenue by eliminating operational friction.
 
@@ -13,11 +13,12 @@ These are the verifiable systems I built and scaled, demonstrating the blend of 
 
 ---
 
-### 🧱 Foundational Rigor (Google Ops, MBA, Field Leadership)
+### 🧱 Foundational Rigor & Scale (Google Ops, MBA, Field Leadership)
 My methods are grounded in process rigor and early leadership development:
 
 | Foundation | Core Focus | Insight |
 | :--- | :--- | :--- |
+| **SurveyMonkey** | **Enterprise Portfolio Management.** | Managed a **$300M+ enterprise portfolio** consisting of 700+ accounts. |
 | **Google** / **NetApp** | Operations Rigor & Process Optimization. | **15%** increase in operational efficiency (Google Shopping launch). |
 | **HP** / **Early Career** | Field Sales Leadership & Player-Coach DNA. | Managed and trained a team of **20 associates** in product demonstration. |
 
