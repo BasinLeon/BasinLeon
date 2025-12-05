@@ -1,39 +1,24 @@
-**Hi, I'm @BasinLeon 👋**
+## 🎯 The Revenue Architect (Ex-Fudo, Google, Hewlett Packard & Sense)
 
-**I'm interested in ...**
+I build data-driven GTM systems that bridge engineering complexity with commercial velocity. My focus is on scaling revenue by eliminating operational friction.
 
-*   Data-driven sales and marketing strategies 🚀
-*   Leveraging Python and AI to automate and optimize workflows 🐍🤖
-*   Building meaningful connections and fostering collaboration 🤝
-*   Sharing knowledge and inspiring the next generation of tech-savvy professionals 💡 
+📈 Key Architectural Wins & Metrics
+These are the verifiable systems I built and scaled:
 
-**I'm currently learning...**
+| Role | Architectural Win | Metric |
+| :--- | :--- | :--- |
+| **Fudo Security** | Re-architected global outbound motion & partner channel. | **160%** YoY Pipeline Increase |
+| **Sense (Workforce AI)** | Built sales automation framework that reduced churn. | **12%** Customer Churn Reduction |
+| **Basin & Associates** | Zero-to-One GTM engines for AI/DevSecOps clients. | **$621k** Active Pipeline Generated |
 
-*   Advanced Python techniques for data analysis and visualization 📊
-*   SQL for efficient data querying and management 🗄️
-*   JavaScript for interactive web development and data visualization 🌐
+💻 Current Lab: GTM Signal Architect
+My active project uses Python and Streamlit to score pipeline signals. It's my internal lab for developing the next generation of GTM strategy.
 
-**I'm looking to collaborate on ...**
+💡 Core Focus: Operationalizing AI & Data
+- **The New Bio:** Revenue Architect & GTM Builder | Operationalizing Python/AI (Streamlit) to score pipeline signals. Ex-Google Ops | MBA.
+- **The Technical Pitch:** "I engineered a Python script that hits the Clay API to enrich leads with 'Hiring Signals'."
 
-*   Projects that leverage data to drive business growth and innovation 📈
-*   Open-source initiatives that empower sales and marketing professionals 🤝
-*   Creative endeavors that blend technology, storytelling, and human connection ✍️
-
-**How to reach me**
-
-*   Connect with me on LinkedIn: [[(https://www.linkedin.com/in/leonbasin/ ])]
-*   Follow me on X (formerly Twitter): [@basin_leon](https://www.x.com/basin_leon)
-*   Visit my website: [www.basinleon.com](https://www.basinleon.com)
-
-**Pronouns**
-
-*   He/him
-
-**Fun fact**
-
-*   I'm passionate about using technology to make a positive impact on the world. 🌎
-
-<!---
-BasinLeon/BasinLeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 How to Connect
+* **LinkedIn:** [https://www.linkedin.com/in/leonbasin/](https://www.linkedin.com/in/leonbasin/)
+* **Portfolio & Demo:** [www.basinleon.com](www.basinleon.com)
+* **X (formerly Twitter):** @basin_leon
