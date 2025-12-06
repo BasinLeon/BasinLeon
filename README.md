@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>⚡ Vibe Coding × Revenue Architecture — Building autonomous GTM systems with LLMs, n8n, and code.</em>
+  <em>⚡ Vibe Coding × Vibe Marketing × Revenue Architecture — Building autonomous GTM systems with LLMs, n8n, and code.</em>
 </p>
 
 ---
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 <p align="center">
