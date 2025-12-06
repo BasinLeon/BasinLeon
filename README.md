@@ -28,7 +28,7 @@ I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** acro
 | Role | System Built | Metric |
 | :--- | :--- | :--- |
 | **Fudo Security** | Global outbound + partner channel | **160%** YoY Pipeline ↑ |
-| **Sense** | BDR team + sales automation | **$10M** pipeline |
+| **Sense** | BDR team + sales automation | **$11M** pipeline |
 | **Basin & Associates** | Zero-to-One GTM engines | **$621k** active |
 | **SurveyMonkey** | Enterprise portfolio | **$300M+** managed |
 
