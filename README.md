@@ -44,38 +44,30 @@ I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** acro
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Outreach-5C47F5?style=for-the-badge&logo=outreach&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZoomInfo-00A36C?style=for-the-badge&logo=zoominfo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 💻 Current Lab: BASIN::NEXUS v11:11
 
-My live GTM intelligence platform. **1617 lines of Python** demonstrating how I think about career strategy as a **Revenue OS**.
+My live GTM intelligence platform. **1644 lines of Python** demonstrating how I think about career strategy as a **Revenue OS**.
 
-<p align="center">
-  <a href="https://github.com/BasinLeon/basin-signal-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true)](https://github.com/BasinLeon/basin-signal-engine)
 
 | Feature | Purpose |
 |---------|---------|
-| **🎯 Prescient Targeting** | 5-vector job sweep (LinkedIn, ATS, VC, Social) |
-| **🥊 Boardroom Simulator** | Real-time XP scoring for interview prep |
-| **🎙️ Live Assist** | Digital Twin for real-time interview coaching |
-| **📈 Pipeline CRM** | Treat job search like a sales pipeline |
+| 🎯 **Prescient Targeting** | 7-vector job sweep (LinkedIn, ATS, VC, Social, Reddit, HN) |
+| 🥊 **Boardroom Simulator** | Real-time XP scoring for interview prep |
+| 🎙️ **Live Assist** | Digital Twin for real-time interview coaching |
+| 📈 **Pipeline CRM** | Treat job search like a sales pipeline |
 
 **LLM Fleet:** `Llama 3.3 70B` • `Mixtral 8x7B` • `Gemini Pro` • `Claude 3.5 Sonnet`
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -94,7 +86,6 @@ My live GTM intelligence platform. **1617 lines of Python** demonstrating how I 
 ---
 
 <p align="center">
-  <em>Built at 1:40 AM by someone who started coding at 40.</em><br/>
   <strong>This is the builder's path.</strong>
 </p>
 
