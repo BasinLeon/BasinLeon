@@ -19,7 +19,7 @@
 
 **Director of GTM Systems | 160% Pipeline Growth | Python/AI Builder | Ex-Google & Fudo Security | MBA**
 
-I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** across Cybersecurity, AI, and Workforce tech.
+I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** across Cybersecurity, AI, and Workforce tech.
 
 ---
 
@@ -39,6 +39,7 @@ I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** acro
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**basin-signal-engine**](https://github.com/BasinLeon/basin-signal-engine) | AI-Powered Career Intelligence Platform (1644 lines) | Python, Streamlit, LLMs |
+| [**bs-detector**](https://github.com/BasinLeon/bs-detector) | 🔴 Technical BS Detector - Outreach analyzer for engineers | React, Tailwind |
 | [**lead-script-generator**](https://github.com/BasinLeon/lead-script-generator) | LLM-powered outbound script generator | Python, Gemini, Claude |
 | [**gtm-signal-architect**](https://github.com/BasinLeon/gtm-signal-architect) | Revenue Architecture scoring engine | Python, Streamlit |
 | [**basinleon.github.io**](https://github.com/BasinLeon/basinleon.github.io) | Portfolio & Case Studies | HTML, CSS, JS |
@@ -49,15 +50,15 @@ I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** acro
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
