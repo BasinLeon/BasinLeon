@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/leonbasin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://basinleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/basin_leon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:lbasin23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 **Director of GTM Systems | 160% Pipeline Growth | Python/AI Builder | Ex-Google & Fudo Security | MBA**
 
-I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** across Cybersecurity, AI, and Workforce tech. I believe the future of Revenue Operations is **automated, intelligent, and data-driven**.
+I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** across Cybersecurity, AI, and Workforce tech.
 
 ---
 
@@ -26,20 +27,42 @@ I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** acro
 
 | Role | System Built | Metric |
 | :--- | :--- | :--- |
-| **Fudo Security** | Global outbound motion & partner channel architecture | **160%** YoY Pipeline ↑ |
-| **Sense (Workforce AI)** | BDR team + sales automation framework | **$10M** pipeline |
-| **Basin & Associates** | Zero-to-One GTM for AI/DevSecOps clients | **$621k** active pipeline |
-| **SurveyMonkey** | Enterprise portfolio management | **$300M+** portfolio |
+| **Fudo Security** | Global outbound + partner channel | **160%** YoY Pipeline ↑ |
+| **Sense** | BDR team + sales automation | **$10M** pipeline |
+| **Basin & Associates** | Zero-to-One GTM engines | **$621k** active |
+| **SurveyMonkey** | Enterprise portfolio | **$300M+** managed |
 
 ---
 
-## 🛠️ My Toolbox
+## 💻 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/BasinLeon/basin-signal-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/BasinLeon/lead-script-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=lead-script-generator&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BasinLeon/gtm-signal-architect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=gtm-signal-architect&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/BasinLeon/basinleon.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basinleon.github.io&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -50,38 +73,25 @@ I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** acro
 
 ---
 
-## 💻 Current Lab: BASIN::NEXUS v11:11
-
-My live GTM intelligence platform. **1644 lines of Python** demonstrating how I think about career strategy as a **Revenue OS**.
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true)](https://github.com/BasinLeon/basin-signal-engine)
-
-| Feature | Purpose |
-|---------|---------|
-| 🎯 **Prescient Targeting** | 7-vector job sweep (LinkedIn, ATS, VC, Social, Reddit, HN) |
-| 🥊 **Boardroom Simulator** | Real-time XP scoring for interview prep |
-| 🎙️ **Live Assist** | Digital Twin for real-time interview coaching |
-| 📈 **Pipeline CRM** | Treat job search like a sales pipeline |
-
-**LLM Fleet:** `Llama 3.3 70B` • `Mixtral 8x7B` • `Gemini Pro` • `Claude 3.5 Sonnet`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
 ---
 
-## 🧱 Foundational Rigor
+## 🧱 Background
 
-| Foundation | Core Focus |
+| Foundation | Focus |
 | :--- | :--- |
-| **Google** | Operations Rigor (Google Shopping launch) |
-| **NetApp / HP** | Enterprise Sales & Field Leadership |
-| **Santa Clara University** | MBA - Strategy & Innovation |
+| **Google** | Operations Rigor |
+| **NetApp / HP** | Enterprise Sales |
+| **Santa Clara University** | MBA |
 
 ---
 
