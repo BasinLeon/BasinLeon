@@ -1,34 +1,103 @@
-## 🎯 The Revenue Architect (Ex-Fudo Security, Google, Hewlett Packard, NetApp, SurveyMonkey & Sense)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Leon+Basin+%F0%9F%91%8B;Revenue+Architect+%7C+GTM+Builder;160%25+Pipeline+Growth+%40+Fudo;Ex-Google+Ops+%7C+MBA" alt="Typing SVG" />
+</h1>
 
-I build data-driven GTM systems that bridge engineering complexity with commercial velocity. My focus is on scaling revenue by eliminating operational friction.
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonbasin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://basinleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://x.com/basin_leon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-### 📈 Key Architectural Wins & Metrics
-These are the verifiable systems I built and scaled, demonstrating the blend of technical rigor and commercial strategy:
-
-| Role | Architectural Win | Metric |
-| :--- | :--- | :--- |
-| **Fudo Security** | Re-architected global outbound motion & partner channel. | **160%** YoY Pipeline Increase |
-| **Sense (Workforce AI)** | BDR team leadership & sales automation framework. | Generated **$10M in pipeline** & reduced customer churn by **12%**. |
-| **Basin & Associates** | Zero-to-One GTM engines for AI/DevSecOps clients. | **$621k** Active Pipeline Generated. |
-
----
-
-### 🧱 Foundational Rigor & Scale (Google Ops, MBA, Field Leadership)
-My methods are grounded in process rigor and early leadership development:
-
-| Foundation | Core Focus | Insight |
-| :--- | :--- | :--- |
-| **SurveyMonkey** | **Enterprise Portfolio Management.** | Managed a **$300M+ enterprise portfolio** & closed **$300K** in expansion revenue. |
-| **Sense (Enablement)** | **Social Selling Program Design.** | Increased sales team response rates by **125%**. |
-| **Google** / **NetApp** | Operations Rigor & Process Optimization. | Drove a **15% increase** in operational efficiency (Google Shopping launch). |
-| **HP / Early Career** | Field Sales Leadership & Player-Coach DNA. | Managed and trained a team of **20 associates** in product demonstration. |
-
-### 💻 Current Lab: GTM Signal Architect
-My active project uses Python and Streamlit to score pipeline signals. It's my internal lab for developing the next generation of GTM strategy.
+<p align="center">
+  <em>I build data-driven GTM systems that bridge engineering complexity with commercial velocity.</em>
+</p>
 
 ---
 
-### 🤝 How to Connect
-* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/leonbasin/)
-* **Portfolio & Demo:** [Portfolio Site](https://basinleon.github.io/)
-* **X (formerly Twitter):** [X Profile](https://x.com/basin_leon)
+## 🎯 The Revenue Architect
+
+**Director of GTM Systems | 160% Pipeline Growth | Python/AI Builder | Ex-Google & Fudo Security | MBA**
+
+I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** across Cybersecurity, AI, and Workforce tech. I believe the future of Revenue Operations is **automated, intelligent, and data-driven**.
+
+---
+
+## 📈 Key Architectural Wins
+
+| Role | System Built | Metric |
+| :--- | :--- | :--- |
+| **Fudo Security** | Global outbound motion & partner channel architecture | **160%** YoY Pipeline ↑ |
+| **Sense (Workforce AI)** | BDR team + sales automation framework | **$10M** pipeline |
+| **Basin & Associates** | Zero-to-One GTM for AI/DevSecOps clients | **$621k** active pipeline |
+| **SurveyMonkey** | Enterprise portfolio management | **$300M+** portfolio |
+
+---
+
+## 🛠️ My Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outreach-5C47F5?style=for-the-badge&logo=outreach&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZoomInfo-00A36C?style=for-the-badge&logo=zoominfo&logoColor=white" />
+</p>
+
+---
+
+## 💻 Current Lab: BASIN::NEXUS v11:11
+
+My live GTM intelligence platform. **1617 lines of Python** demonstrating how I think about career strategy as a **Revenue OS**.
+
+<p align="center">
+  <a href="https://github.com/BasinLeon/basin-signal-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+| Feature | Purpose |
+|---------|---------|
+| **🎯 Prescient Targeting** | 5-vector job sweep (LinkedIn, ATS, VC, Social) |
+| **🥊 Boardroom Simulator** | Real-time XP scoring for interview prep |
+| **🎙️ Live Assist** | Digital Twin for real-time interview coaching |
+| **📈 Pipeline CRM** | Treat job search like a sales pipeline |
+
+**LLM Fleet:** `Llama 3.3 70B` • `Mixtral 8x7B` • `Gemini Pro` • `Claude 3.5 Sonnet`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧱 Foundational Rigor
+
+| Foundation | Core Focus |
+| :--- | :--- |
+| **Google** | Operations Rigor (Google Shopping launch) |
+| **NetApp / HP** | Enterprise Sales & Field Leadership |
+| **Santa Clara University** | MBA - Strategy & Innovation |
+
+---
+
+<p align="center">
+  <em>Built at 1:40 AM by someone who started coding at 40.</em><br/>
+  <strong>This is the builder's path.</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BasinLeon&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
