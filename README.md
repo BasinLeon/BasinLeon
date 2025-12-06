@@ -36,23 +36,12 @@ I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** acro
 
 ## 💻 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/BasinLeon/basin-signal-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basin-signal-engine&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/BasinLeon/lead-script-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=lead-script-generator&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BasinLeon/gtm-signal-architect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=gtm-signal-architect&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/BasinLeon/basinleon.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BasinLeon&repo=basinleon.github.io&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**basin-signal-engine**](https://github.com/BasinLeon/basin-signal-engine) | AI-Powered Career Intelligence Platform (1644 lines) | Python, Streamlit, LLMs |
+| [**lead-script-generator**](https://github.com/BasinLeon/lead-script-generator) | LLM-powered outbound script generator | Python, Gemini, Claude |
+| [**gtm-signal-architect**](https://github.com/BasinLeon/gtm-signal-architect) | Revenue Architecture scoring engine | Python, Streamlit |
+| [**basinleon.github.io**](https://github.com/BasinLeon/basinleon.github.io) | Portfolio & Case Studies | HTML, CSS, JS |
 
 ---
 
@@ -73,14 +62,10 @@ I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** acro
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
