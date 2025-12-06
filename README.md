@@ -19,7 +19,7 @@
 
 **Director of GTM Systems | 160% Pipeline Growth | Python/AI Builder | Ex-Google & Fudo Security | MBA**
 
-I'm a GTM leader who codes. My systems have generated **$10M+ in pipeline** across Cybersecurity, AI, and Workforce tech.
+I'm a GTM leader who codes. My systems have generated **$11M+ in pipeline** across Cybersecurity, AI, and Workforce tech.
 
 ---
 
