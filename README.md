@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9A%A1+BASIN%3A%3ANEXUS+%7C+REVENUE+ARCHITECT;I+Build+AI+Agents+That+Scale+Revenue;8%2C400%2B+Lines+%7C+5+LLMs+%7C+18+Modules;%24160%25+Pipeline+Growth+%40+Fudo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v0.5;Revenue+Architect;8%2C400%2B+Lines+of+Python;160%25+Pipeline+Growth" alt="Typing SVG" />
 </h1>
 
 <p align="center">
