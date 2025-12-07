@@ -1,71 +1,173 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Leon+Basin+%F0%9F%91%8B;I+Build+AI+Agents+That+Scale+Revenue;160%25+Pipeline+Growth+%40+Fudo;Ex-Google+%7C+MBA+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9A%A1+BASIN%3A%3ANEXUS+%7C+REVENUE+ARCHITECT;I+Build+AI+Agents+That+Scale+Revenue;8%2C400%2B+Lines+%7C+5+LLMs+%7C+18+Modules;%24160%25+Pipeline+Growth+%40+Fudo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonbasin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://basinleon.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://x.com/basin_leon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:lbasin23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/STATUS-SEEKING_2026_OPPORTUNITY-D4AF37?style=for-the-badge&labelColor=050508" alt="Status"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonbasin/"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=050508" alt="LinkedIn"/></a>
+  <a href="https://basinleon.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-050508?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Portfolio"/></a>
+  <a href="https://x.com/basin_leon"><img src="https://img.shields.io/badge/X-050508?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X"/></a>
+  <a href="mailto:lbasin23@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D4AF37?style=for-the-badge&logo=gmail&logoColor=050508" alt="Email"/></a>
 </p>
 
 ---
 
-## 🎯 I don't just sell technology. I build it
+<div align="center">
 
-15 years of GTM leadership (Google, Fudo, SurveyMonkey, HP, NetApp) taught me Revenue Ops is broken.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    BASIN::NEXUS v0.5                             ║
+║              EXECUTIVE CAREER INTELLIGENCE OS                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ⚔️ BATTLESTATION    │  Interview Prep, Voice Lab, Dojo         ║
+║  🛰️ ORACLE ARRAY     │  Hunt Mode, Market Radar, Company Intel  ║
+║  🏗️ BUILDER DECK     │  Pipeline CRM, Comp Calc, First 90       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-So I started coding my own agents. Now I build autonomous systems that find leads, score signals, and craft outreach—while I sleep.
-
-**This is the builder's path.**
-
----
-
-## 📈 Key Wins
-
-| Company | System Built | Result |
-|---------|--------------|--------|
-| **Fudo Security** | Global outbound + partner channel | **160% YoY Pipeline ↑** |
-| **Sense** | BDR team + sales automation | **$11M pipeline** |
-| **Basin & Associates** | Zero-to-One GTM engines | **$621k active** |
-| **SurveyMonkey** | Enterprise portfolio | **$300M+ managed** |
+</div>
 
 ---
 
-## 💻 What I'm Building
+## ⚡ I Don't Just Sell Technology — I Build It
 
-| Project | Description |
-|---------|-------------|
-| [**basin-signal-engine**](https://github.com/BasinLeon/basin-signal-engine) | AI Career Intelligence (1,748 lines) - 12 modes |
-| [**bs-detector**](https://github.com/BasinLeon/bs-detector) | 🔴 Technical BS Detector for outreach |
-| [**lead-script-generator**](https://github.com/BasinLeon/lead-script-generator) | LLM-powered outbound scripts |
-| [**gtm-signal-architect**](https://github.com/BasinLeon/gtm-signal-architect) | Revenue scoring engine |
-| [**basinleon.github.io**](https://github.com/BasinLeon/basinleon.github.io) | Portfolio site |
+**15 years of GTM leadership** (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp) taught me Revenue Ops is broken.
+
+So I started coding. Now I build **autonomous systems** that find leads, score signals, and craft outreach — **while I sleep**.
+
+> *"This is the Revenue Architect's path."*
 
 ---
 
-## 🛠️ Stack
+## 📊 By The Numbers
 
-**Languages:** Python, JavaScript, React, Next.js  
-**AI/LLM:** OpenAI, Claude, Gemini, Langchain, n8n  
-**GTM Tools:** Salesforce, HubSpot, Clay, Apollo, Outreach
+<div align="center">
+
+| Metric | Value |
+|:------:|:-----:|
+| **Pipeline Growth** | `160%` |
+| **Net New Revenue** | `$2M+` |
+| **Lines of Code** | `8,400+` |
+| **LLMs Orchestrated** | `5` |
+| **Production Modules** | `18` |
+
+</div>
 
 ---
 
-## 🧱 Background
+## 🔶 Featured Projects
 
-| Foundation | What I Learned |
-|------------|----------------|
-| **Google** | Operations Rigor |
-| **NetApp / HP** | Enterprise Scale |
-| **Santa Clara MBA** | Strategic Thinking |
+<table>
+<tr>
+<td align="center" width="50%">
+
+### [⚡ basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
+
+**AI Career Intelligence Platform**  
+Python/Streamlit • 8,400+ lines • 18 modules  
+*Hunt → Prep → Close*
+
+[![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
+
+</td>
+<td align="center" width="50%">
+
+### [🔴 bs-detector](https://github.com/BasinLeon/bs-detector)
+
+**Technical BS Detector**  
+Score outreach for engineer credibility  
+*Detect buzzwords • Fix sales speak*
+
+[![Stars](https://img.shields.io/github/stars/BasinLeon/bs-detector?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/bs-detector)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### [📝 lead-script-generator](https://github.com/BasinLeon/lead-script-generator)
+
+**LLM-Powered Outbound Scripts**  
+Generate personalized sequences  
+*ICP targeting • Multi-channel*
+
+</td>
+<td align="center">
+
+### [🌐 basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io)
+
+**Portfolio / Resume Site**  
+Golden Executive OS aesthetic  
+*Career Intelligence Dashboard*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Languages** | `Python` `JavaScript` `SQL` |
+| **AI/LLM** | `OpenAI` `Claude` `Gemini` `Llama` `Langchain` |
+| **Voice** | `Whisper STT` `TTS` `Voice Telemetry` |
+| **GTM Tools** | `Salesforce` `HubSpot` `Clay` `Apollo` `Outreach` |
+| **Infra** | `Streamlit` `React` `Next.js` `n8n` |
+
+</div>
+
+---
+
+## 🏆 Career Wins
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  FUDO SECURITY      │  Global GTM + Outbound   │  160% ↑       │
+│  SENSE              │  BDR Team + Automation   │  $11M pipeline│
+│  BASIN & ASSOCIATES │  0→1 GTM Engines         │  Active       │
+│  GOOGLE             │  Operations Rigor        │  Trust/Safety │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📰 Thought Leadership
+
+- **[Emerging Leadership Labyrinth](https://www.linkedin.com/newsletters/emerging-leadership-labyrinth-7103486442881880065/)** — 35 editions, 1,884 subscribers
+- **[The Secure Strategist](https://www.linkedin.com/newsletters/the-secure-strategist-7222321933533470720/)** — Zero Trust & AI Security
+- **RSA Conference 2024 & 2025** — Technical demonstrations
+
+---
+
+<div align="center">
+
+## 💼 What I'm Seeking
+
+**Director/VP of GTM Strategy** · **RevOps Lead** · **GTM Engineering**
+
+*Building systems, not running playbooks.*
+
+</div>
 
 ---
 
 <p align="center">
-  <strong>I build the engine, not just run it.</strong>
+  <img src="https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=for-the-badge&label=SIGNAL+STRENGTH&labelColor=050508" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BasinLeon&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <strong style="color: #D4AF37;">⚡ BASIN::NEXUS // #IWrite:ICODE ⚡</strong>
 </p>
+
+---
+
+<div align="center">
+<sub>Built with 🔶 by Leon Basin • 2025</sub>
+</div>
