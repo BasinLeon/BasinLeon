@@ -70,6 +70,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 Python/Streamlit • 8,400+ lines • 18 modules  
 *Hunt → Prep → Close*
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://basinnexusappapp-39k7ljzoseebgnrivt6oey.streamlit.app/)
 [![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
 
 </td>
