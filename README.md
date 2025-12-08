@@ -170,5 +170,5 @@ Golden Executive OS aesthetic
 ---
 
 <div align="center">
-<sub>Built with 🔶 by Leon Basin • 2025</sub>
+<sub>Built with 🔶 by Leon Basin • 2025 <!-- v0.5.1 --></sub>
 </div>
