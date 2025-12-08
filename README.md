@@ -47,12 +47,15 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 <div align="center">
 
 | Metric | Value |
-|:------:|:-----:|
+|--------|-------|
 | **Pipeline Growth** | `160%` |
 | **Net New Revenue** | `$2M+` |
-| **Lines of Code** | `8,400+` |
+| **Lines of Code** | `16,630+` |
+| **Python Functions** | `137` |
+| **LLM API Calls** | `1,839+` |
+| **Coding Days (90d)** | `142` |
+| **Modules Shipped** | `21` |
 | **LLMs Orchestrated** | `5` |
-| **Production Modules** | `18` |
 
 </div>
 
