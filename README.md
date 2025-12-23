@@ -38,7 +38,22 @@
 
 So I started coding. Now I build **autonomous systems** that find leads, score signals, and craft outreach — **while I sleep**.
 
-> *"This is the Revenue Architect's path."*
+> *"Unlike traditional sales leaders, I build the tooling I use."*
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+| GTM Strategy | Revenue Operations | GTM Automation | Domain Expertise |
+|:------------:|:------------------:|:--------------:|:----------------:|
+| Pipeline Architecture | CRM Design (HubSpot/Salesforce) | AI Agent Workflows | Cybersecurity (PAM/Zero Trust) |
+| Partner Ecosystems (US/LATAM) | Forecasting & KPI Tracking | Python for Sales Ops | Identity Security |
+| Sales Enablement | Deal Cycle Optimization | N8N/Streamlit/LLMs | Developer-First GTM |
+| MEDDICC / Sandler | RevOps Automation | Automated Prospecting | AI & SaaS |
+
+</div>
 
 ---
 
@@ -162,6 +177,24 @@ Golden Executive OS aesthetic
 │  2014–2015          │  Google Shopping Launch   │  Efficiency   │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| Education | Certifications |
+|:---------:|:-------------:|
+| **MBA, Business Strategy & Technology Leadership** | MEDDICC (AE Accelerator) |
+| Santa Clara University, 2023 | Sandler Selling System |
+| **B.S. Psychology & Business Administration** | HubSpot Advanced |
+| University of Phoenix, 2012 | Salesforce Certified |
+| | Gong.io |
+
+**Languages:** English (Native) • Russian (Native)
+
+</div>
 
 ---
 
