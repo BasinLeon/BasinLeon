@@ -61,16 +61,13 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| **Pipeline Growth** | `160%` |
-| **Net New Revenue** | `$2M+` |
-| **Lines of Code** | `16,630+` |
-| **Python Functions** | `137` |
-| **LLM API Calls** | `1,839+` |
-| **Coding Days (90d)** | `142` |
-| **Modules Shipped** | `21` |
-| **LLMs Orchestrated** | `5` |
+| Career Impact | Technical Output |
+|:-------------:|:----------------:|
+| **160%** Pipeline Growth YoY | **10,500+** Lines of Python |
+| **$10M+** Pipeline Generated | **21** Modules Shipped |
+| **$300M+** Portfolio Managed | **5** LLMs Orchestrated |
+| **105%** Quota Attainment | **3** Live AI Widgets |
+| **125%** Reply Rate Increase | **1,839+** LLM API Calls |
 
 </div>
 
@@ -83,12 +80,13 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | Tool | Description | Status | Link |
 |------|-------------|--------|------|
 | **⚡ basin-signal-engine** | AI Career Intelligence Platform<br/>*Hunt → Prep → Close* | 🟢 Live | [Demo](https://basin-nexus.streamlit.app) \| [Code](https://github.com/BasinLeon/basin-signal-engine) |
+| **🧠 AI Widgets** | Interactive Portfolio Components<br/>*Neural Core, Query Console, Logs* | 🟢 Live | [Demo](https://basinleon.github.io/widgets/demo.html) \| [Code](https://github.com/BasinLeon/basinleon.github.io/tree/main/widgets) |
 | **💼 headline-forge** | LinkedIn Headline Generator<br/>*AI-powered profile optimization* | 🟢 Live | [Demo](https://linkedin-headline-generator-5f5esbxxbunyr8nxtkjzce.streamlit.app) \| [Code](https://github.com/BasinLeon/linkedin-headline-generator) |
 | **🔬 outreach-autopsy** | Cold Email Intelligence<br/>*Diagnose failures, predict success* | 🟡 Beta | [Code](https://github.com/BasinLeon/outreach-autopsy) |
 | **🔴 bs-detector** | Technical BS Detector<br/>*Score outreach for engineer credibility* | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
 | **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
 
-**More coming:** Comp Calculator, GTM Playbook Vault, Signal Heatmap, RevOps Copilot
+**More coming:** Market Signal Factory, Comp Calculator, GTM Playbook Vault
 
 ---
 
@@ -134,9 +132,11 @@ Generate personalized sequences
 
 ### [🌐 basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io)
 
-**Portfolio / Resume Site**  
-Golden Executive OS aesthetic  
-*Career Intelligence Dashboard*
+**Portfolio + AI Widgets**  
+Interactive Query Console, Neural Core  
+*Built with Google Antigravity*
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=github&logoColor=white)](https://basinleon.github.io/)
 
 </td>
 </tr>
