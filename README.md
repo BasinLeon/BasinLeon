@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v0.5;Revenue+Architect;8%2C400%2B+Lines+of+Python;160%25+Pipeline+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v0.5;Revenue+Architect;10%2C500%2B+Lines+of+Python;160%25+Pipeline+Growth" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -61,6 +61,22 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 ---
 
+## 🛠️ BASIN::TOOLS Ecosystem
+
+**Micro-tools for revenue professionals. Built in public.**
+
+| Tool | Description | Status | Link |
+|------|-------------|--------|------|
+| **⚡ basin-signal-engine** | AI Career Intelligence Platform<br/>*Hunt → Prep → Close* | 🟢 Live | [Demo](https://basin-nexus.streamlit.app) \| [Code](https://github.com/BasinLeon/basin-signal-engine) |
+| **💼 headline-forge** | LinkedIn Headline Generator<br/>*AI-powered profile optimization* | 🟢 Live | [Demo](https://linkedin-headline-generator-5f5esbxxbunyr8nxtkjzce.streamlit.app) \| [Code](https://github.com/BasinLeon/linkedin-headline-generator) |
+| **🔬 outreach-autopsy** | Cold Email Intelligence<br/>*Diagnose failures, predict success* | 🟡 Beta | [Code](https://github.com/BasinLeon/outreach-autopsy) |
+| **🔴 bs-detector** | Technical BS Detector<br/>*Score outreach for engineer credibility* | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
+| **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
+
+**More coming:** Comp Calculator, GTM Playbook Vault, Signal Heatmap, RevOps Copilot
+
+---
+
 ## 🔶 Featured Projects
 
 <table>
@@ -70,7 +86,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 ### [⚡ basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
 
 **AI Career Intelligence Platform**  
-Python/Streamlit • 8,400+ lines • 18 modules  
+Python/Streamlit • 10,500+ lines • 21 modules  
 *Hunt → Prep → Close*
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://basin-nexus.streamlit.app/)
@@ -129,14 +145,21 @@ Golden Executive OS aesthetic
 
 ---
 
-## 🏆 Career Wins
+## 🏆 Career Timeline
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  FUDO SECURITY      │  Global GTM + Outbound   │  160% ↑       │
-│  SENSE              │  BDR Team + Automation   │  $11M pipeline│
-│  BASIN & ASSOCIATES │  0→1 GTM Engines         │  Active       │
-│  GOOGLE             │  Operations Rigor        │  Trust/Safety │
+│  FUDO SECURITY      │  GTM Strategy (Americas)  │  160% ↑       │
+│  Feb 2024–Nov 2025  │  Partner Channel Ops      │  Pipeline YoY │
+├─────────────────────────────────────────────────────────────────┤
+│  SENSE              │  Group Manager, BD        │  $10M+        │
+│  2021–2023          │  105% Quota, 125% ↑ Reply │  Pipeline     │
+├─────────────────────────────────────────────────────────────────┤
+│  SURVEYMONKEY       │  Enterprise Account Mgr   │  $300M+       │
+│  2019–2021          │  700+ Accounts            │  Portfolio    │
+├─────────────────────────────────────────────────────────────────┤
+│  GOOGLE             │  Operations Specialist    │  15% ↑        │
+│  2014–2015          │  Google Shopping Launch   │  Efficiency   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
