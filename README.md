@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v0.5;Revenue+Architect;10%2C500%2B+Lines+of+Python;160%25+Pipeline+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v9.0;Revenue+Architect;12%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    BASIN::NEXUS v0.5                             ║
-║              EXECUTIVE CAREER INTELLIGENCE OS                    ║
+║                    BASIN::NEXUS v9.0                             ║
+║              REVENUE ARCHITECTURE OPERATING SYSTEM               ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ⚔️ BATTLESTATION    │  Interview Prep, Voice Lab, Dojo         ║
-║  🛰️ ORACLE ARRAY     │  Hunt Mode, Market Radar, Company Intel  ║
-║  🏗️ BUILDER DECK     │  Pipeline CRM, Comp Calc, First 90       ║
+║  📊 SIGNAL BRIEF     │  Executive Docs, Pipeline, McKinsey-style ║
+║  ⚡ SIGNAL ENGINE    │  Lead Scoring, Hunt Mode, Company Intel   ║
+║  🏗️ BUILDER DECK     │  Interview Prep, Comp Calc, First 90      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -240,5 +240,5 @@ Interactive Query Console, Neural Core
 ---
 
 <div align="center">
-<sub>Built with 🔶 by Leon Basin • 2025 <!-- v0.5.1 --></sub>
+<sub>Built with 🔶 by Leon Basin • 2026 <!-- v9.0 --></sub>
 </div>
