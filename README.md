@@ -70,7 +70,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | **$10M+** Pipeline Generated | **20** Public Repositories |
 | **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
 | **+133%** Pipeline with NEXUS | **10** Live Streamlit Apps |
-| **+350%** Interview Stage | **1** Published Thesis |
+| **+350%** Interview Conversion | **1** Published Thesis |
 
 </div>
 
@@ -253,5 +253,5 @@ Interactive Query Console, Neural Core
 ---
 
 <div align="center">
-<sub>Built with 🔶 by Leon Basin • 2026 <!-- v9.0 --></sub>
+<sub>Built with 🔶 by Leon Basin • 2026 <!-- v10.0 --></sub>
 </div>
