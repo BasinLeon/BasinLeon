@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v9.0;Revenue+Architect;12%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v10.0;Revenue+Architect;15%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,12 +19,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    BASIN::NEXUS v9.0                             ║
+║                    BASIN::NEXUS v10.0                            ║
 ║              REVENUE ARCHITECTURE OPERATING SYSTEM               ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  📊 SIGNAL BRIEF     │  Executive Docs, Pipeline, McKinsey-style ║
 ║  ⚡ SIGNAL ENGINE    │  Lead Scoring, Hunt Mode, Company Intel   ║
-║  🏗️ BUILDER DECK     │  Interview Prep, Comp Calc, First 90      ║
+║  🎯 TRIGGER GEN      │  Stakeholder Triggers, JD Parser          ║
+║  📧 COLD EMAIL       │  AI Outreach, Personalized Templates      ║
+║  🎤 INTERVIEW PREP   │  STAR Practice, Case Studies, Rapid Fire  ║
+║  🏆 CLOSING PRACTICE │  Deal Sims, Objection Handling, MEDDIC    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -63,10 +66,10 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 | Career Impact | Technical Output |
 |:-------------:|:----------------:|
-| **160%** Pipeline Growth YoY | **12,000+** Lines of Code |
-| **$10M+** Pipeline Generated | **16** Public Repositories |
+| **160%** Pipeline Growth YoY | **15,000+** Lines of Code |
+| **$10M+** Pipeline Generated | **20** Public Repositories |
 | **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
-| **+133%** Pipeline with NEXUS | **6** Live Streamlit Apps |
+| **+133%** Pipeline with NEXUS | **10** Live Streamlit Apps |
 | **+350%** Interview Stage | **1** Published Thesis |
 
 </div>
@@ -86,6 +89,10 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | **🔬 outreach-autopsy** | Cold Email Intelligence<br/>*Diagnose failures, predict success* | 🟡 Beta | [Code](https://github.com/BasinLeon/outreach-autopsy) |
 | **🔴 bs-detector** | Technical BS Detector<br/>*Score outreach for engineer credibility* | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
 | **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
+| **🎯 stakeholder-trigger-generator** | Stakeholder Trigger Generator<br/>*JD parsing, persona-based outreach* | 🟢 Live | [Code](https://github.com/BasinLeon/stakeholder-trigger-generator) |
+| **📧 cold-email-generator** | Cold Email Generator<br/>*6 templates, personalization signals* | 🟢 Live | [Code](https://github.com/BasinLeon/cold-email-generator) |
+| **🎤 interview-prep-simulator** | Interview Prep Simulator<br/>*STAR practice, case studies, rapid fire* | 🟢 Live | [Code](https://github.com/BasinLeon/interview-prep-simulator) |
+| **🏆 ae-closing-practice** | AE Closing Practice<br/>*Deal sims, objection handling, MEDDIC* | 🟢 Live | [Code](https://github.com/BasinLeon/ae-closing-practice) |
 
 **More coming:** Market Signal Factory, Comp Calculator, GTM Playbook Vault
 
