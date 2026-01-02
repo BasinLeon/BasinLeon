@@ -64,10 +64,10 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | Career Impact | Technical Output |
 |:-------------:|:----------------:|
 | **160%** Pipeline Growth YoY | **12,000+** Lines of Code |
-| **$10M+** Pipeline Generated | **21** Modules Shipped |
+| **$10M+** Pipeline Generated | **16** Public Repositories |
 | **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
-| **105%** Quota Attainment | **5** Live Web Apps |
-| **+133%** Pipeline with NEXUS | **2** Published Theses |
+| **+133%** Pipeline with NEXUS | **6** Live Streamlit Apps |
+| **+350%** Interview Stage | **1** Published Thesis |
 
 </div>
 
