@@ -63,11 +63,11 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 | Career Impact | Technical Output |
 |:-------------:|:----------------:|
-| **160%** Pipeline Growth YoY | **10,500+** Lines of Python |
+| **160%** Pipeline Growth YoY | **12,000+** Lines of Code |
 | **$10M+** Pipeline Generated | **21** Modules Shipped |
-| **$300M+** Portfolio Managed | **5** LLMs Orchestrated |
-| **105%** Quota Attainment | **3** Live AI Widgets |
-| **125%** Reply Rate Increase | **1,839+** LLM API Calls |
+| **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
+| **105%** Quota Attainment | **5** Live Web Apps |
+| **+133%** Pipeline with NEXUS | **2** Published Theses |
 
 </div>
 
@@ -107,17 +107,31 @@ A practitioner's thesis on the shift from volume-based GTM to signal-based Reven
 <tr>
 <td align="center" width="50%">
 
+### [📊 executive-brief-generator](https://github.com/BasinLeon/executive-brief-generator)
+
+**Executive Signal Brief Generator**  
+McKinsey-style pipeline documents  
+*Transform data → Decision-grade briefs*
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://executive-brief-generator.streamlit.app/)
+[![Stars](https://img.shields.io/github/stars/BasinLeon/executive-brief-generator?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/executive-brief-generator)
+
+</td>
+<td align="center" width="50%">
+
 ### [⚡ basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
 
 **AI Career Intelligence Platform**  
-Python/Streamlit • 10,500+ lines • 21 modules  
+Python/Streamlit • 10,500+ lines  
 *Hunt → Prep → Close*
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://basin-nexus.streamlit.app/)
 [![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
 
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center">
 
 ### [🔴 bs-detector](https://github.com/BasinLeon/bs-detector)
 
@@ -126,17 +140,6 @@ Score outreach for engineer credibility
 *Detect buzzwords • Fix sales speak*
 
 [![Stars](https://img.shields.io/github/stars/BasinLeon/bs-detector?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/bs-detector)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### [📝 lead-script-generator](https://github.com/BasinLeon/lead-script-generator)
-
-**LLM-Powered Outbound Scripts**  
-Generate personalized sequences  
-*ICP targeting • Multi-channel*
 
 </td>
 <td align="center">
