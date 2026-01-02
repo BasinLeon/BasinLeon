@@ -79,6 +79,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 | Tool | Description | Status | Link |
 |------|-------------|--------|------|
+| **📊 executive-brief-generator** | Executive Signal Brief Generator<br/>*McKinsey-style pipeline documents* | 🟢 Live | [Demo](https://executive-brief-generator.streamlit.app) \| [Code](https://github.com/BasinLeon/executive-brief-generator) |
 | **⚡ basin-signal-engine** | AI Career Intelligence Platform<br/>*Hunt → Prep → Close* | 🟢 Live | [Demo](https://basin-nexus.streamlit.app) \| [Code](https://github.com/BasinLeon/basin-signal-engine) |
 | **🧠 AI Widgets** | Interactive Portfolio Components<br/>*Neural Core, Query Console, Logs* | 🟢 Live | [Demo](https://basinleon.github.io/widgets/demo.html) \| [Code](https://github.com/BasinLeon/basinleon.github.io/tree/main/widgets) |
 | **💼 headline-forge** | LinkedIn Headline Generator<br/>*AI-powered profile optimization* | 🟢 Live | [Demo](https://linkedin-headline-generator-5f5esbxxbunyr8nxtkjzce.streamlit.app) \| [Code](https://github.com/BasinLeon/linkedin-headline-generator) |
@@ -87,6 +88,16 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
 
 **More coming:** Market Signal Factory, Comp Calculator, GTM Playbook Vault
+
+---
+
+## 📄 Latest Research
+
+### [The Architecture of Revenue](https://basinleon.com/2026/01/02/the-architecture-of-revenue-a-builders-thesis-on-signal-systems-and-the-end-of-brute-force/)
+
+> *"Revenue is not arithmetic. It is architecture."*
+
+A practitioner's thesis on the shift from volume-based GTM to signal-based Revenue Architecture. 15 years of operating experience distilled into methodology, open-source tooling, and results (+133% pipeline, +350% interviews).
 
 ---
 
