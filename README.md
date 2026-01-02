@@ -214,6 +214,7 @@ Interactive Query Console, Neural Core
 
 ## 📰 Thought Leadership
 
+- **[The Architecture of Revenue](https://basinleon.com/2026/01/02/the-architecture-of-revenue-a-builders-thesis-on-signal-systems-and-the-end-of-brute-force/)** — A Builder's Thesis on Signal, Systems, and the End of Brute Force
 - **[Emerging Leadership Labyrinth](https://www.linkedin.com/newsletters/emerging-leadership-labyrinth-7103486442881880065/)** — 35 editions, 1,884 subscribers
 - **[The Secure Strategist](https://www.linkedin.com/newsletters/the-secure-strategist-7222321933533470720/)** — Zero Trust & AI Security
 - **RSA Conference 2024 & 2025** — Technical demonstrations
@@ -224,9 +225,11 @@ Interactive Query Console, Neural Core
 
 ## 💼 What I'm Seeking
 
-**Director/VP of GTM Strategy** · **RevOps Lead** · **GTM Engineering**
+**Revenue Architecture** · **GTM Strategy** · **Sales Ops** · **Product Marketing**
 
 *Building systems, not running playbooks.*
+
+📧 **Lbasin23@gmail.com** | Subject: "Signal received."
 
 </div>
 
