@@ -188,8 +188,11 @@ Interactive Query Console, Neural Core
 │  FUDO SECURITY      │  GTM Strategy (Americas)  │  160% ↑       │
 │  Feb 2024–Nov 2025  │  Partner Channel Ops      │  Pipeline YoY │
 ├─────────────────────────────────────────────────────────────────┤
-│  SLINGSHOT          │  Senior Account Executive │  Enterprise   │
-│  Apr 2023–Sep 2023  │  HR Tech Platform         │  Sales        │
+│  BRAINTRUST         │  Brand Ambassador         │  Web3 Talent  │
+│  Jan 2024–Jul 2024  │  Decentralized Network    │  Engagement   │
+├─────────────────────────────────────────────────────────────────┤
+│  SLINGSHOT          │  Regional Key Account Mgr │  Enterprise   │
+│  Apr 2023–Sep 2023  │  IT Staffing Solutions    │  Sales        │
 ├─────────────────────────────────────────────────────────────────┤
 │  SENSE              │  Group Manager, BD        │  $10M+        │
 │  Jan 2021–Apr 2023  │  105% Quota, 125% ↑ Reply │  Pipeline     │
