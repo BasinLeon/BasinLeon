@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v10.0;Revenue+Architect;15%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v10.0;Revenue+Architect;27%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## ⚡ I Don't Just Sell Technology — I Build It
 
-**15 years of GTM leadership** (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp) taught me Revenue Ops is broken.
+**15 years in GTM, with the last decade building and leading revenue engines** (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp).
 
 So I started coding. Now I build **autonomous systems** that find leads, score signals, and craft outreach — **while I sleep**.
 
@@ -66,7 +66,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 | Career Impact | Technical Output |
 |:-------------:|:----------------:|
-| **160%** Pipeline Growth YoY | **15,000+** Lines of Code |
+| **160%** Pipeline Growth YoY | **27,000+** Lines of Code |
 | **$10M+** Pipeline Generated | **20** Public Repositories |
 | **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
 | **+133%** Pipeline with NEXUS | **10** Live Streamlit Apps |
@@ -90,6 +90,7 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 | **🔴 bs-detector** | Technical BS Detector<br/>*Score outreach for engineer credibility* | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
 | **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
 | **🎯 stakeholder-trigger-generator** | Stakeholder Trigger Generator<br/>*JD parsing, persona-based outreach* | 🟢 Live | [Code](https://github.com/BasinLeon/stakeholder-trigger-generator) |
+| **🚀 interview-nexus** | Interview PWA (NEXUS v10.0)<br/>*Full career command center - React/Vite* | 🟢 Live | [Demo](https://basinleon.github.io/nexus/) \| [Code](https://github.com/BasinLeon/basinleon.github.io/tree/main/nexus) |
 | **📧 cold-email-generator** | Cold Email Generator<br/>*6 templates, personalization signals* | 🟢 Live | [Code](https://github.com/BasinLeon/cold-email-generator) |
 | **🎤 interview-prep-simulator** | Interview Prep Simulator<br/>*STAR practice, case studies, rapid fire* | 🟢 Live | [Code](https://github.com/BasinLeon/interview-prep-simulator) |
 | **🏆 ae-closing-practice** | AE Closing Practice<br/>*Deal sims, objection handling, MEDDIC* | 🟢 Live | [Code](https://github.com/BasinLeon/ae-closing-practice) |
