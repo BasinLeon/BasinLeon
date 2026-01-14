@@ -101,11 +101,27 @@ So I started coding. Now I build **autonomous systems** that automate research, 
 
 ## 📄 Latest Research
 
-### [The Architecture of Revenue](https://basinleon.com/2026/01/02/the-architecture-of-revenue-a-builders-thesis-on-signal-systems-and-the-end-of-brute-force/)
+### [The Architecture of Revenue](https://basinleon.github.io/blog/posts/architecture-of-revenue.html)
 
 > *"Revenue is not arithmetic. It is architecture."*
 
 A practitioner's thesis on the shift from volume-based GTM to signal-based Revenue Architecture. 15 years of operating experience distilled into methodology, open-source tooling, and results (+133% pipeline, +350% interviews).
+
+---
+
+## 🎯 Case Studies (Code Names)
+
+<div align="center">
+
+| Project | Description | Result |
+|:--------|:------------|:-------|
+| **Project::Translator** | Bifurcated GTM for Identity & Data Marketplace. Translated "Granular Access" (Tech) → "Risk Mitigation" (Exec Value). | **18% ARR Increase (Quarterly)** • 132% YoY Growth |
+| **Project::Phoenix** | SDR Transition Architecture: Inbound → Outbound. 5-Day "Boot Camp" certification protocol. | **5-Day Ramp** (Industry Avg: 3 Months) |
+| **Project::Air Strike** | Zero-Cost Lead Gen via technical forums. Identified problem-aware buyers at $0 CAC. | **3 SQLs in 48 Hours** • $0 CAC |
+
+</div>
+
+> *Full deployment strategies available upon request. [View Interactive Console →](https://basinleon.github.io)*
 
 ---
 
@@ -208,17 +224,16 @@ Interactive Query Console, Neural Core
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Foundational Systems & Certifications
 
 <div align="center">
 
-| Education | Certifications |
-|:---------:|:-------------:|
-| **MBA, Business Strategy & Technology Leadership** | MEDDICC (AE Accelerator) |
-| Santa Clara University, 2023 | Sandler Selling System |
-| **B.S. Psychology & Business Administration** | HubSpot Advanced |
-| University of Phoenix, 2012 | Salesforce Certified |
-| | Gong.io |
+| Foundational Systems | Certifications |
+|:--------------------:|:--------------:|
+| **Executive MBA**<br/><i>Strategy & Financial Modeling</i><br/>Santa Clara University, 2023 | **MEDDICC (AE Accelerator)** |
+| **B.S. Psychology**<br/><i>Buyer Psychology & Neuro-Marketing</i><br/>University of Phoenix, 2012 | **Sandler Selling System** |
+| **Technical Writing**<br/><i>Process Architecture & SOPs</i><br/>De Anza College | **HubSpot Advanced** |
+| | **Salesforce Certified** |
 
 **Languages:** English (Native) • Russian (Native)
 
@@ -226,12 +241,12 @@ Interactive Query Console, Neural Core
 
 ---
 
-## 📰 Thought Leadership
+## 📰 GTM Intelligence & IP
 
-- **[The Architecture of Revenue](https://basinleon.com/2026/01/02/the-architecture-of-revenue-a-builders-thesis-on-signal-systems-and-the-end-of-brute-force/)** — A Builder's Thesis on Signal, Systems, and the End of Brute Force
-- **[Emerging Leadership Labyrinth](https://www.linkedin.com/newsletters/emerging-leadership-labyrinth-7103486442881880065/)** — 35 editions, 1,884 subscribers
-- **[The Secure Strategist](https://www.linkedin.com/newsletters/the-secure-strategist-7222321933533470720/)** — Zero Trust & AI Security
+- **[The Secure Strategist](https://www.linkedin.com/newsletters/the-secure-strategist-7222321933533470720/)** — Insights on GTM Engineering & Cyber Risk (1,884+ Subscribers)
+- **[Unlock the Power of Storytelling](https://www.amazon.com/Unlock-Power-Storytelling-Cybersecurity-Inspires-ebook/dp/B0DCNMS9V1/)** — Amazon 2024 Cybersecurity Saga (5.0 Stars)
 - **RSA Conference 2024 & 2025** — Technical demonstrations
+- *Also author of: Sam & Ink, Thoughts on Fire, Acceptance Patterns*
 
 ---
 
