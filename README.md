@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BASIN%3A%3ANEXUS+v10.0;Revenue+Architect;27%2C000%2B+Lines+of+Code;The+Architecture+of+Revenue" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=I+Engineer+Governed+GTM+Infrastructure;$23M%2B+Career+Pipeline+Architected;5-Day+SDR+Ramp+(Industry+Avg:+3+Months);BASIN%3A%3ANEXUS+v10.0" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,13 +35,13 @@
 
 ---
 
-## ⚡ I Don't Just Sell Technology — I Build It
+## ⚡ I Don't Just Sell Technology — I Engineer **Governed** GTM Infrastructure
 
 **15 years in GTM, with the last decade building and leading revenue engines** (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp).
 
-So I started coding. Now I build **autonomous systems** that find leads, score signals, and craft outreach — **while I sleep**.
+So I started coding. Now I build **autonomous systems** that automate research, prioritization, and outreach — **so we deploy human capital on the Close.**
 
-> *"Unlike traditional sales leaders, I build the tooling I use."*
+> *"Revenue is not arithmetic. It is architecture."*
 
 ---
 
@@ -66,10 +66,10 @@ So I started coding. Now I build **autonomous systems** that find leads, score s
 
 | Career Impact | Technical Output |
 |:-------------:|:----------------:|
-| **160%** Pipeline Growth YoY | **27,000+** Lines of Code |
-| **$10M+** Pipeline Generated | **20** Public Repositories |
-| **$300M+** Portfolio Managed | **7** LLMs Orchestrated |
-| **+133%** Pipeline with NEXUS | **10** Live Streamlit Apps |
+| **$23M+** Career Pipeline | **27,000+** Lines of Code |
+| **160%** Pipeline Growth YoY | **20** Public Repositories |
+| **$310M+** Portfolio Managed | **7** LLMs Orchestrated |
+| **5 Days** SDR Ramp Time | **10** Live Streamlit Apps |
 | **+350%** Interview Conversion | **1** Published Thesis |
 
 </div>
@@ -195,7 +195,7 @@ Interactive Query Console, Neural Core
 │  SLINGSHOT          │  Regional Key Account Mgr │  Enterprise   │
 │  Apr 2023–Sep 2023  │  IT Staffing Solutions    │  Sales        │
 ├─────────────────────────────────────────────────────────────────┤
-│  SENSE              │  Group Manager, BD        │  $10M+        │
+│  SENSE              │  Group Manager, BD        │  $12M+        │
 │  Jan 2021–Apr 2023  │  105% Quota, 125% ↑ Reply │  Pipeline     │
 ├─────────────────────────────────────────────────────────────────┤
 │  SURVEYMONKEY       │  Enterprise Account Mgr   │  $300M+       │
@@ -239,9 +239,9 @@ Interactive Query Console, Neural Core
 
 ## 💼 What I'm Seeking
 
-**Revenue Architecture** · **GTM Strategy** · **Sales Ops** · **Product Marketing**
+**Founding Engineer / Revenue Architect** · **GTM Strategy** · **Sales Leadership**
 
-*Building systems, not running playbooks.*
+*Building governed systems that deploy human capital on high-value activities.*
 
 📧 **Lbasin23@gmail.com** | Subject: "Signal received."
 
