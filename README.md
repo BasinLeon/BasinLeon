@@ -1,62 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=I+Engineer+Governed+GTM+Infrastructure;$23M%2B+Career+Pipeline+Architected;5-Day+SDR+Ramp+(Industry+Avg:+3+Months);BASIN%3A%3ANEXUS+v10.0" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SEEKING_2026_OPPORTUNITY-D4AF37?style=for-the-badge&labelColor=050508" alt="Status"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonbasin/"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=050508" alt="LinkedIn"/></a>
-  <a href="https://basinleon.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-050508?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Portfolio"/></a>
-  <a href="https://x.com/basin_leon"><img src="https://img.shields.io/badge/X-050508?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X"/></a>
-  <a href="mailto:lbasin23@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D4AF37?style=for-the-badge&logo=gmail&logoColor=050508" alt="Email"/></a>
-</p>
-
----
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    BASIN::NEXUS v10.0                            ║
-║              REVENUE ARCHITECTURE OPERATING SYSTEM               ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📊 SIGNAL BRIEF     │  Executive Docs, Pipeline, McKinsey-style ║
-║  ⚡ SIGNAL ENGINE    │  Lead Scoring, Hunt Mode, Company Intel   ║
-║  🎯 TRIGGER GEN      │  Stakeholder Triggers, JD Parser          ║
-║  📧 COLD EMAIL       │  AI Outreach, Personalized Templates      ║
-║  🎤 INTERVIEW PREP   │  STAR Practice, Case Studies, Rapid Fire  ║
-║  🏆 CLOSING PRACTICE │  Deal Sims, Objection Handling, MEDDIC    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# ⚡ BASIN::NEXUS v10.0
+## Revenue Architecture Operating System
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-basinleon.github.io-D4AF37?style=for-the-badge&logo=github)](https://basinleon.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Basin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leonbasin)
+[![X/Twitter](https://img.shields.io/badge/X-@basin__leon-1DA1F2?style=for-the-badge&logo=x)](https://x.com/basin_leon)
+[![Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-D4AF37?style=for-the-badge&logo=gmail)](https://basinleon.github.io#contact)
+
+**📍 San Francisco Bay Area | 🏢 Basin::Nexus Labs — Revenue Architecture**
 
 </div>
 
 ---
 
-## ⚡ I Don't Just Sell Technology — I Engineer **Governed** GTM Infrastructure
+## 💭 About
 
-**15 years in GTM, with the last decade building and leading revenue engines** (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp).
+> **"I Don't Just Sell Technology — I Engineer Governed GTM Infrastructure"**
 
-So I started coding. Now I build **autonomous systems** that automate research, prioritization, and outreach — **so we deploy human capital on the Close.**
+**15 years in GTM**, with the last decade building and leading revenue engines (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp).
 
-> *"Revenue is not arithmetic. It is architecture."*
+So I started coding. Now I build **autonomous systems** that automate research, prioritization, and outreach — so we deploy human capital on the **Close**.
+
+**"Revenue is not arithmetic. It is architecture."**
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 What I'm Seeking
 
-<div align="center">
+**Founding Engineer / Revenue Architect · GTM Strategy · Sales Leadership**
 
-| GTM Strategy | Revenue Operations | GTM Automation | Domain Expertise |
-|:------------:|:------------------:|:--------------:|:----------------:|
-| Pipeline Architecture | CRM Design (HubSpot/Salesforce) | AI Agent Workflows | Cybersecurity (PAM/Zero Trust) |
-| Partner Ecosystems (US/LATAM) | Forecasting & KPI Tracking | Python for Sales Ops | Identity Security |
-| Sales Enablement | Deal Cycle Optimization | N8N/Streamlit/LLMs | Developer-First GTM |
-| MEDDICC / Sandler | RevOps Automation | Automated Prospecting | AI & SaaS |
+Building governed systems that deploy human capital on high-value activities.
 
-</div>
+**📧 [Contact via Portfolio](https://basinleon.github.io#contact) | Subject: "Signal received."**
 
 ---
 
@@ -64,12 +40,12 @@ So I started coding. Now I build **autonomous systems** that automate research, 
 
 <div align="center">
 
-| Career Impact | Technical Output |
-|:-------------:|:----------------:|
-| **$23M+** Career Pipeline | **27,000+** Lines of Code |
-| **160%** Pipeline Growth YoY | **20** Public Repositories |
-| **$310M+** Portfolio Managed | **7** LLMs Orchestrated |
-| **5 Days** SDR Ramp Time | **10** Live Streamlit Apps |
+| **Career Impact** | **Technical Output** |
+|:---:|:---:|
+| **$23M+** Career Pipeline | **83,000+** Lines of Code |
+| **160%** Pipeline Growth YoY | **19** Public Repositories |
+| **$310M+** Portfolio Managed | **5** LLMs Orchestrated |
+| **5 Days** SDR Ramp Time | **10+** Live Streamlit Apps |
 | **+350%** Interview Conversion | **1** Published Thesis |
 
 </div>
@@ -80,32 +56,52 @@ So I started coding. Now I build **autonomous systems** that automate research, 
 
 **Micro-tools for revenue professionals. Built in public.**
 
-| Tool | Description | Status | Link |
-|------|-------------|--------|------|
-| **📊 executive-brief-generator** | Executive Signal Brief Generator<br/>*McKinsey-style pipeline documents* | 🟢 Live | [Demo](https://executive-brief-generator.streamlit.app) \| [Code](https://github.com/BasinLeon/executive-brief-generator) |
-| **⚡ basin-signal-engine** | AI Career Intelligence Platform<br/>*Hunt → Prep → Close* | 🟢 Live | [Demo](https://basin-nexus.streamlit.app) \| [Code](https://github.com/BasinLeon/basin-signal-engine) |
-| **🧠 AI Widgets** | Interactive Portfolio Components<br/>*Neural Core, Query Console, Logs* | 🟢 Live | [Demo](https://basinleon.github.io/widgets/demo.html) \| [Code](https://github.com/BasinLeon/basinleon.github.io/tree/main/widgets) |
-| **💼 headline-forge** | LinkedIn Headline Generator<br/>*AI-powered profile optimization* | 🟢 Live | [Demo](https://linkedin-headline-generator-5f5esbxxbunyr8nxtkjzce.streamlit.app) \| [Code](https://github.com/BasinLeon/linkedin-headline-generator) |
-| **🔬 outreach-autopsy** | Cold Email Intelligence<br/>*Diagnose failures, predict success* | 🟡 Beta | [Code](https://github.com/BasinLeon/outreach-autopsy) |
-| **🔴 bs-detector** | Technical BS Detector<br/>*Score outreach for engineer credibility* | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
-| **📝 lead-script-gen** | LLM-Powered Outbound Scripts<br/>*Personalized sequences, ICP targeting* | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
-| **🎯 stakeholder-trigger-generator** | Stakeholder Trigger Generator<br/>*JD parsing, persona-based outreach* | 🟢 Live | [Code](https://github.com/BasinLeon/stakeholder-trigger-generator) |
-| **🚀 interview-nexus** | Interview PWA (NEXUS v10.0)<br/>*Full career command center - React/Vite* | 🟢 Live | [Demo](https://basinleon.github.io/nexus/) \| [Code](https://github.com/BasinLeon/basinleon.github.io/tree/main/nexus) |
-| **📧 cold-email-generator** | Cold Email Generator<br/>*6 templates, personalization signals* | 🟢 Live | [Code](https://github.com/BasinLeon/cold-email-generator) |
-| **🎤 interview-prep-simulator** | Interview Prep Simulator<br/>*STAR practice, case studies, rapid fire* | 🟢 Live | [Code](https://github.com/BasinLeon/interview-prep-simulator) |
-| **🏆 ae-closing-practice** | AE Closing Practice<br/>*Deal sims, objection handling, MEDDIC* | 🟢 Live | [Code](https://github.com/BasinLeon/ae-closing-practice) |
+<div align="center">
+
+| Tool | Description | Status | Links |
+|:---:|:---|:---:|:---|
+| 📊 **executive-brief-generator** | Executive Signal Brief Generator<br>McKinsey-style pipeline documents | 🟢 Live | [Demo](https://basinleon.github.io/tools/executive-brief-generator.html) \| [Code](https://github.com/BasinLeon/executive-brief-generator) |
+| ⚡ **basin-signal-engine** | AI Career Intelligence Platform<br>Hunt → Prep → Close | 🟢 Live | [Demo](https://basin-nexus.streamlit.app) \| [Code](https://github.com/BasinLeon/basin-signal-engine) |
+| 🧠 **AI Widgets** | Interactive Portfolio Components<br>Neural Core, Query Console, Logs | 🟢 Live | [Demo](https://basinleon.github.io) \| [Code](https://github.com/BasinLeon/basinleon.github.io) |
+| 💼 **headline-forge** | LinkedIn Headline Generator<br>AI-powered profile optimization | 🟢 Live | [Demo](https://basinleon.github.io/tools/headline-generator.html) \| [Code](https://github.com/BasinLeon/headline-generator) |
+| 🔬 **outreach-autopsy** | Cold Email Intelligence<br>Diagnose failures, predict success | 🟡 Beta | [Code](https://github.com/BasinLeon/outreach-autopsy) |
+| 🔴 **bs-detector** | Technical BS Detector<br>Score outreach for engineer credibility | 🟢 Live | [Code](https://github.com/BasinLeon/bs-detector) |
+| 📝 **lead-script-gen** | LLM-Powered Outbound Scripts<br>Personalized sequences, ICP targeting | 🟢 Live | [Code](https://github.com/BasinLeon/lead-script-generator) |
+| 🎯 **stakeholder-trigger-generator** | Stakeholder Trigger Generator<br>JD parsing, persona-based outreach | 🟢 Live | [Code](https://github.com/BasinLeon/stakeholder-trigger-generator) |
+| 🚀 **interview-nexus** | Interview PWA (NEXUS v10.0)<br>Full career command center - React/Vite | 🟢 Live | [Demo](https://basinleon.github.io/nexus/) \| [Code](https://github.com/BasinLeon/interview-nexus) |
+| 📧 **cold-email-generator** | Cold Email Generator<br>6 templates, personalization signals | 🟢 Live | [Code](https://github.com/BasinLeon/cold-email-generator) |
+| 🎤 **interview-prep-simulator** | Interview Prep Simulator<br>STAR practice, case studies, rapid fire | 🟢 Live | [Code](https://github.com/BasinLeon/interview-prep-simulator) |
+| 🏆 **ae-closing-practice** | AE Closing Practice<br>Deal sims, objection handling, MEDDIC | 🟢 Live | [Code](https://github.com/BasinLeon/ae-closing-practice) |
 
 **More coming:** Market Signal Factory, Comp Calculator, GTM Playbook Vault
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+| **GTM Strategy** | **Revenue Operations** | **GTM Automation** | **Domain Expertise** |
+|:---|:---|:---|:---|
+| Pipeline Architecture | CRM Design (HubSpot/Salesforce) | AI Agent Workflows | Cybersecurity (PAM/Zero Trust) |
+| Partner Ecosystems (US/LATAM) | Forecasting & KPI Tracking | Python for Sales Ops | Identity Security |
+| Sales Enablement | Deal Cycle Optimization | N8N/Streamlit/LLMs | Developer-First GTM |
+| MEDDICC / Sandler | RevOps Automation | Automated Prospecting | AI & SaaS |
+
+</div>
 
 ---
 
 ## 📄 Latest Research
 
-### [The Architecture of Revenue](https://basinleon.github.io/blog/posts/architecture-of-revenue.html)
-
+### **The Architecture of Revenue**
 > *"Revenue is not arithmetic. It is architecture."*
 
 A practitioner's thesis on the shift from volume-based GTM to signal-based Revenue Architecture. 15 years of operating experience distilled into methodology, open-source tooling, and results (+133% pipeline, +350% interviews).
+
+**[📖 Read Full Thesis →](https://basinleon.github.io/blog/)**
 
 ---
 
@@ -114,71 +110,56 @@ A practitioner's thesis on the shift from volume-based GTM to signal-based Reven
 <div align="center">
 
 | Project | Description | Result |
-|:--------|:------------|:-------|
-| **Project::Translator** | Bifurcated GTM for Identity & Data Marketplace. Translated "Granular Access" (Tech) → "Risk Mitigation" (Exec Value). | **18% ARR Increase (Quarterly)** • 132% YoY Growth |
+|:---|:---|:---|
+| **Project::Translator** | Bifurcated GTM for Identity & Data Marketplace. Translated "Granular Access" (Tech) → "Risk Mitigation" (Exec Value). | **18% ARR Increase** (Quarterly) • **132% YoY Growth** |
 | **Project::Phoenix** | SDR Transition Architecture: Inbound → Outbound. 5-Day "Boot Camp" certification protocol. | **5-Day Ramp** (Industry Avg: 3 Months) |
-| **Project::Air Strike** | Zero-Cost Lead Gen via technical forums. Identified problem-aware buyers at $0 CAC. | **3 SQLs in 48 Hours** • $0 CAC |
+| **Project::Air Strike** | Zero-Cost Lead Gen via technical forums. Identified problem-aware buyers at $0 CAC. | **3 SQLs in 48 Hours** • **$0 CAC** |
+
+**Full deployment strategies available upon request. [View Interactive Console →](https://basinleon.github.io)**
 
 </div>
-
-> *Full deployment strategies available upon request. [View Interactive Console →](https://basinleon.github.io)*
 
 ---
 
 ## 🔶 Featured Projects
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### [📊 executive-brief-generator](https://github.com/BasinLeon/executive-brief-generator)
-
+### 📊 [executive-brief-generator](https://github.com/BasinLeon/executive-brief-generator)
 **Executive Signal Brief Generator**  
 McKinsey-style pipeline documents  
-*Transform data → Decision-grade briefs*
+Transform data → Decision-grade briefs
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://executive-brief-generator.streamlit.app/)
-[![Stars](https://img.shields.io/github/stars/BasinLeon/executive-brief-generator?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/executive-brief-generator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io/tools/executive-brief-generator.html) [![Stars](https://img.shields.io/github/stars/BasinLeon/executive-brief-generator?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/executive-brief-generator)
 
-</td>
-<td align="center" width="50%">
+---
 
-### [⚡ basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
-
+### ⚡ [basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
 **AI Career Intelligence Platform**  
 Python/Streamlit • 10,500+ lines  
-*Hunt → Prep → Close*
+Hunt → Prep → Close
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=streamlit&logoColor=white)](https://basin-nexus.streamlit.app/)
-[![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-D4AF37?style=flat-square)](https://basin-nexus.streamlit.app) [![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
 
-</td>
-</tr>
-<tr>
-<td align="center">
+---
 
-### [🔴 bs-detector](https://github.com/BasinLeon/bs-detector)
-
+### 🔴 [bs-detector](https://github.com/BasinLeon/bs-detector)
 **Technical BS Detector**  
 Score outreach for engineer credibility  
-*Detect buzzwords • Fix sales speak*
+Detect buzzwords • Fix sales speak
 
-[![Stars](https://img.shields.io/github/stars/BasinLeon/bs-detector?style=flat-square&color=D4AF37&labelColor=050508)](https://github.com/BasinLeon/bs-detector)
+[![Stars](https://img.shields.io/github/stars/BasinLeon/bs-detector?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/bs-detector)
 
-</td>
-<td align="center">
+---
 
-### [🌐 basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io)
-
+### 🌐 [basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io)
 **Portfolio + AI Widgets**  
 Interactive Query Console, Neural Core  
-*Built with Google Antigravity*
+Built with Google Antigravity
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4ade80?style=flat-square&logo=github&logoColor=white)](https://basinleon.github.io/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io) [![Stars](https://img.shields.io/github/stars/BasinLeon/basinleon.github.io?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/basinleon.github.io)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -186,13 +167,13 @@ Interactive Query Console, Neural Core
 
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | `Python` `JavaScript` `SQL` |
-| **AI/LLM** | `OpenAI` `Claude` `Gemini` `Llama` `Langchain` |
-| **Voice** | `Whisper STT` `TTS` `Voice Telemetry` |
-| **GTM Tools** | `Salesforce` `HubSpot` `Clay` `Apollo` `Outreach` |
-| **Infra** | `Streamlit` `React` `Next.js` `n8n` |
+| **Category** | **Technologies** |
+|:---|:---|
+| **Languages** | Python • JavaScript • SQL |
+| **AI/LLM** | OpenAI • Claude • Gemini • Llama • Langchain |
+| **Voice** | Whisper STT • TTS • Voice Telemetry |
+| **GTM Tools** | Salesforce • HubSpot • Clay • Apollo • Outreach |
+| **Infra** | Streamlit • React • Next.js • n8n |
 
 </div>
 
@@ -217,10 +198,12 @@ Interactive Query Console, Neural Core
 │  SURVEYMONKEY       │  Enterprise Account Mgr   │  $300M+       │
 │  2019–2021          │  700+ Accounts            │  Portfolio    │
 ├─────────────────────────────────────────────────────────────────┤
-│  GOOGLE             │  Operations Specialist    │  15% ↑        │
+│  GOOGLE             │  Operations Specialist   │  15% ↑        │
 │  2014–2015          │  Google Shopping Launch   │  Efficiency   │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+**[📄 View Full Resume →](https://basinleon.github.io)**
 
 ---
 
@@ -228,12 +211,11 @@ Interactive Query Console, Neural Core
 
 <div align="center">
 
-| Foundational Systems | Certifications |
-|:--------------------:|:--------------:|
-| **Executive MBA**<br/><i>Strategy & Financial Modeling</i><br/>Santa Clara University, 2023 | **MEDDICC (AE Accelerator)** |
-| **B.S. Psychology**<br/><i>Buyer Psychology & Neuro-Marketing</i><br/>University of Phoenix, 2012 | **Sandler Selling System** |
-| **Technical Writing**<br/><i>Process Architecture & SOPs</i><br/>De Anza College | **HubSpot Advanced** |
-| | **Salesforce Certified** |
+| **Foundational Systems** | **Certifications** |
+|:---|:---|
+| **Executive MBA**<br>Strategy & Financial Modeling<br>Santa Clara University, 2023 | **MEDDICC** (AE Accelerator) |
+| **B.S. Psychology**<br>Buyer Psychology & Neuro-Marketing<br>University of Phoenix, 2012 | **Sandler Selling System** |
+| **Technical Writing**<br>Process Architecture & SOPs<br>De Anza College | **HubSpot Advanced**<br>**Salesforce Certified** |
 
 **Languages:** English (Native) • Russian (Native)
 
@@ -243,37 +225,79 @@ Interactive Query Console, Neural Core
 
 ## 📰 GTM Intelligence & IP
 
-- **[The Secure Strategist](https://www.linkedin.com/newsletters/the-secure-strategist-7222321933533470720/)** — Insights on GTM Engineering & Cyber Risk (1,884+ Subscribers)
-- **[Unlock the Power of Storytelling](https://www.amazon.com/Unlock-Power-Storytelling-Cybersecurity-Inspires-ebook/dp/B0DCNMS9V1/)** — Amazon 2024 Cybersecurity Saga (5.0 Stars)
-- **RSA Conference 2024 & 2025** — Technical demonstrations
-- *Also author of: Sam & Ink, Thoughts on Fire, Acceptance Patterns*
+- 📰 **[The Secure Strategist](https://www.linkedin.com/newsletters/7222321933533470720/)** — Insights on GTM Engineering & Cyber Risk (**1,884+ Subscribers**)
+- 📖 **[Unlock the Power of Storytelling](https://www.amazon.com/dp/B0DCNMS9V1/)** — Amazon 2024 Cybersecurity Saga (**⭐ 5.0 Stars**)
+- 🎤 **RSA Conference 2024 & 2025** — Technical demonstrations
+- 📚 Also author of: **Sam & Ink**, **Thoughts on Fire**, **Acceptance Patterns**
+
+**[📚 View All Publications →](https://basinleon.github.io/blog/)**
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 💼 What I'm Seeking
+![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=dark&bg_color=050508&title_color=D4AF37&icon_color=D4AF37&text_color=f0e6d3&border_color=D4AF37&hide_border=false&include_all_commits=true&count_private=false)
 
-**Founding Engineer / Revenue Architect** · **GTM Strategy** · **Sales Leadership**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasinLeon&layout=compact&theme=dark&bg_color=050508&title_color=D4AF37&text_color=f0e6d3&border_color=D4AF37&hide_border=false&langs_count=8)
 
-*Building governed systems that deploy human capital on high-value activities.*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=dark&background=050508&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&hide_border=false)
 
-📧 **Lbasin23@gmail.com** | Subject: "Signal received."
+![Profile Views](https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=for-the-badge&label=SIGNAL+STRENGTH&labelColor=050508" alt="Profile views" />
-</p>
+## 💼 Currently Building
 
-<p align="center">
-  <strong style="color: #D4AF37;">⚡ BASIN::NEXUS // #IWrite:ICODE ⚡</strong>
-</p>
+- 🔨 **Signal Refinery for AI Companies** — AI-powered GTM architecture (Pro Bono Case Studies)
+- 🧪 **n8n Workflow Templates** — No-code revenue automation blueprints
+- 📝 **GTM Engineering Playbook** — Open-source guide for technical revenue leaders
+- ⚡ **BASIN::NEXUS v11.0** — Enhanced AI agent workflows with predictive analytics
+
+**[🚀 See What I'm Building →](https://basinleon.github.io/tools/)**
+
+---
+
+## 🔗 Connect & Explore
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-basinleon.github.io-D4AF37?style=for-the-badge&logo=github)](https://basinleon.github.io)
+[![Blog](https://img.shields.io/badge/📰_Blog-Case%20Studies%20%26%20Frameworks-D4AF37?style=for-the-badge)](https://basinleon.github.io/blog/)
+[![Tools](https://img.shields.io/badge/🔬_Tools-Interactive%20Laboratory-D4AF37?style=for-the-badge)](https://basinleon.github.io/tools/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Leon%20Basin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leonbasin)
+[![X/Twitter](https://img.shields.io/badge/🐦_X-@basin__leon-1DA1F2?style=for-the-badge&logo=x)](https://x.com/basin_leon)
+[![Contact](https://img.shields.io/badge/📧_Contact-Get%20in%20Touch-D4AF37?style=for-the-badge&logo=gmail)](https://basinleon.github.io#contact)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Built with 🔶 by Leon Basin • 2026 <!-- v10.0 --></sub>
+
+### ⚡ **BASIN::NEXUS // #IWrite:ICODE** ⚡
+
+**Built with 🔶 by [Leon Basin](https://basinleon.github.io) • 2026**
+
+[![GitHub](https://img.shields.io/badge/GitHub-BasinLeon-050508?style=flat-square&logo=github)](https://github.com/BasinLeon)
+[![Website](https://img.shields.io/badge/Website-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Basin-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/leonbasin)
+
+**Profile views:** ![Profile Views](https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=flat-square&label=VISITORS)
+
 </div>
+
+---
+
+## 🏷️ Topics & Keywords
+
+**Revenue Architect • GTM Engineer • Revenue Operations • Sales Automation • AI/LLM • Python • Streamlit • n8n • HubSpot • Salesforce • Cybersecurity • Identity Security • Pipeline Engineering • Signal Architecture • Bifurcated Sales Models • MEDDICC • Sandler • San Francisco Bay Area • Ex-Google • SurveyMonkey • Fudo Security**
+
+---
+
+**💡 Looking for a Revenue Architect who codes? Let's build something.**
+
+**📧 [Contact via Portfolio](https://basinleon.github.io#contact) | Subject: "Signal received."**
