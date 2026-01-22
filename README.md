@@ -16,11 +16,12 @@
 
 ## 💭 About
 
-> **"I Don't Just Sell Technology — I Engineer Governed GTM Infrastructure"**
+> **"I Build Revenue Systems That Scale Revenue, Not Teams"**  
+> *I don't just sell technology — I engineer governed GTM infrastructure.*
 
-**15 years in GTM**, with the last decade building and leading revenue engines (Google, Fudo Security, SurveyMonkey, Sense, HP, NetApp).
+**15+ years GTM leadership.** Google, Fudo Security, SurveyMonkey, HP, NetApp.
 
-So I started coding. Now I build **autonomous systems** that automate research, prioritization, and outreach — so we deploy human capital on the **Close**.
+I code what I architect. Systems that multiply impact without multiplying headcount.
 
 **"Revenue is not arithmetic. It is architecture."**
 
@@ -207,7 +208,7 @@ Built with Google Antigravity
 
 ---
 
-## 🎓 Foundational Systems & Certifications
+## 🎓 Education & Certifications
 
 <div align="center">
 
@@ -223,7 +224,7 @@ Built with Google Antigravity
 
 ---
 
-## 📰 GTM Intelligence & IP
+## 📰 Publications & IP
 
 - 📰 **[The Secure Strategist](https://www.linkedin.com/newsletters/7222321933533470720/)** — Insights on GTM Engineering & Cyber Risk (**1,884+ Subscribers**)
 - 📖 **[Unlock the Power of Storytelling](https://www.amazon.com/dp/B0DCNMS9V1/)** — Amazon 2024 Cybersecurity Saga (**⭐ 5.0 Stars**)
