@@ -234,15 +234,23 @@ Built with Google Antigravity
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Technical Output
 
 <div align="center">
 
-![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasinLeon&show_icons=true&theme=dark&bg_color=050508&title_color=D4AF37&icon_color=D4AF37&text_color=f0e6d3&border_color=D4AF37&hide_border=false&include_all_commits=true&count_private=false)
+| **Metric** | **Value** |
+|:---:|:---:|
+| **Lines of Code** | **83,000+** |
+| **Public Repositories** | **19** |
+| **LLMs Orchestrated** | **5** |
+| **Live Tools** | **10+** |
+| **Languages** | Python • JavaScript • TypeScript • SQL |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasinLeon&layout=compact&theme=dark&bg_color=050508&title_color=D4AF37&text_color=f0e6d3&border_color=D4AF37&hide_border=false&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BasinLeon&theme=dark&background=050508&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&hide_border=false)
+**Top Languages:**
+- **Python:** 46.25% (Primary)
+- **TypeScript:** 24.17% (Frontend)
+- **JavaScript:** 13.07% (Scripting)
+- **HTML/CSS:** 16.51% (Web)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 
