@@ -46,8 +46,9 @@ Building governed systems that deploy human capital on high-value activities.
 | **$23M+** Career Pipeline | **83,000+** Lines of Code |
 | **160%** Pipeline Growth YoY | **19** Public Repositories |
 | **$310M+** Portfolio Managed | **5** LLMs Orchestrated |
-| **5 Days** SDR Ramp Time | **10+** Live Streamlit Apps |
-| **+350%** Interview Conversion | **1** Published Thesis |
+| **$2M+** Net New Revenue | **10+** Live Streamlit Apps |
+| **$621K** Active Pipeline (Consulting) | **1** Published Thesis |
+| **5 Days** SDR Ramp Time | **+350%** Interview Conversion |
 
 </div>
 
@@ -75,6 +76,20 @@ Building governed systems that deploy human capital on high-value activities.
 | 🏆 **ae-closing-practice** | AE Closing Practice<br>Deal sims, objection handling, MEDDIC | 🟢 Live | [Code](https://github.com/BasinLeon/ae-closing-practice) |
 
 **More coming:** Market Signal Factory, Comp Calculator, GTM Playbook Vault
+
+</div>
+
+---
+
+## 🎯 The Architect Triad
+
+**The three pillars of my Revenue Architecture philosophy**
+
+<div align="center">
+
+| 🧠 **The Operator's Mind** | 🌐 **The Ecosystem Builder** | 🎯 **The Strategist's Eye** |
+|:---|:---|:---|
+| 15 years of process rigor (Google, NetApp, HP) applied to CRM/Sales systems that reduce friction. | I operationalize partner channels (US & LATAM) and turn "paper partners" into active revenue streams. | MBA-trained to create GTM narratives and pipeline architecture that delivers predictable growth. |
 
 </div>
 
@@ -112,6 +127,8 @@ A practitioner's thesis on the shift from volume-based GTM to signal-based Reven
 
 | Project | Description | Result |
 |:---|:---|:---|
+| **Project::Sentinel** | GTM Signal Architecture for Computer Vision AI. Partner channel activation + automation-led pipeline. | **$424K/year savings** • **Pro Bono** |
+| **Project::Delight** | AI-Augmented Revenue Engine. Just-in-time onboarding + signal-driven sequencing. | **$23M+ Pipeline** • **5-Day Ramp** |
 | **Project::Translator** | Bifurcated GTM for Identity & Data Marketplace. Translated "Granular Access" (Tech) → "Risk Mitigation" (Exec Value). | **18% ARR Increase** (Quarterly) • **132% YoY Growth** |
 | **Project::Phoenix** | SDR Transition Architecture: Inbound → Outbound. 5-Day "Boot Camp" certification protocol. | **5-Day Ramp** (Industry Avg: 3 Months) |
 | **Project::Air Strike** | Zero-Cost Lead Gen via technical forums. Identified problem-aware buyers at $0 CAC. | **3 SQLs in 48 Hours** • **$0 CAC** |
@@ -259,6 +276,31 @@ Built with Google Antigravity
 
 ---
 
+## ⚡ BASIN::NEXUS v10.0
+
+**EXECUTIVE CAREER INTELLIGENCE OS**
+
+83,000+ lines across Python, JavaScript, TypeScript, React, Streamlit
+
+<div align="center">
+
+| Module | Description |
+|:---|:---|
+| 🎯 **HUNT MODE** | 7-vector job sweep across LinkedIn, ATS, VC portfolios, Twitter, Reddit, HN, financial news |
+| 🥊 **DOJO** | Multi-agent interview simulator with CEO, CFO, VP personas and XP scoring |
+| 🎤 **VOICE LAB** | Real-time speech coaching with WPM, filler detection, and presence scoring |
+| 📈 **PIPELINE CRM** | Track opportunities with stage probability, comp negotiation, and 90-day planning |
+| 🔬 **INTEL AGENT** | Resume vs JD analysis with skill matching, gap identification, and fit scoring |
+| ✍️ **COMMS STUDIO** | LLM-powered outreach generation with persona-targeted messaging |
+
+**LLMs Orchestrated:** Llama 3.3 70B • Mixtral 8x7B • Gemini Pro • GPT-4 • Claude 3.5
+
+**[🚀 Live Demo →](https://basin-nexus.streamlit.app) | [📖 View Full Documentation →](https://basinleon.github.io)**
+
+</div>
+
+---
+
 ## 💼 Currently Building
 
 - 🔨 **Signal Refinery for AI Companies** — AI-powered GTM architecture (Pro Bono Case Studies)
@@ -276,7 +318,9 @@ Built with Google Antigravity
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-basinleon.github.io-D4AF37?style=for-the-badge&logo=github)](https://basinleon.github.io)
 [![Blog](https://img.shields.io/badge/📰_Blog-Case%20Studies%20%26%20Frameworks-D4AF37?style=for-the-badge)](https://basinleon.github.io/blog/)
+[![Case Studies](https://img.shields.io/badge/📊_Case%20Studies-Proven%20Results-D4AF37?style=for-the-badge)](https://basinleon.github.io/case-studies/)
 [![Tools](https://img.shields.io/badge/🔬_Tools-Interactive%20Laboratory-D4AF37?style=for-the-badge)](https://basinleon.github.io/tools/)
+[![ROI Calculator](https://img.shields.io/badge/💰_ROI%20Calculator-Calculate%20Savings-D4AF37?style=for-the-badge)](https://basinleon.github.io/tools/roi-calculator.html)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Leon%20Basin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leonbasin)
 [![X/Twitter](https://img.shields.io/badge/🐦_X-@basin__leon-1DA1F2?style=for-the-badge&logo=x)](https://x.com/basin_leon)
 [![Contact](https://img.shields.io/badge/📧_Contact-Get%20in%20Touch-D4AF37?style=for-the-badge&logo=gmail)](https://basinleon.github.io#contact)
