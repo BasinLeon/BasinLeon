@@ -333,7 +333,7 @@ Built with Google Antigravity
 
 ### ⚡ **BASIN::NEXUS // #IWrite:ICODE** ⚡
 
-**Built with 🔶 by [Leon Basin](https://basinleon.github.io) • 2026**
+**Built with 🔶 by [Leon Basin](https://basinleon.github.io) • 2025**
 
 [![GitHub](https://img.shields.io/badge/GitHub-BasinLeon-050508?style=flat-square&logo=github)](https://github.com/BasinLeon)
 [![Website](https://img.shields.io/badge/Website-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io)
