@@ -222,7 +222,13 @@ Interactive Query Console, NEXUS Intelligence
 │  SERIES A CYBER     │  Senior Manager, GTM      │  160% ↑       │
 │  Feb 2024–Nov 2025  │  Partner Channel Ops      │  Pipeline YoY │
 ├─────────────────────────────────────────────────────────────────┤
-│  SENSE              │  Group Manager, BD        │  $12M+        │
+│  BRAINTRUST         │  Brand Ambassador         │  Web3 Talent  │
+│  Jan 2024–Jul 2024  │  Decentralized Network    │  Engagement   │
+├─────────────────────────────────────────────────────────────────┤
+│  SLINGSHOT          │  Regional Key Account Mgr │  Enterprise   │
+│  Apr 2023–Sep 2023  │  IT Staffing Solutions    │  Sales        │
+├─────────────────────────────────────────────────────────────────┤
+│  SENSE              │  Group Manager, BD        │  $11M+        │
 │  Jan 2021–Apr 2023  │  105% Quota, 125% ↑ Reply │  Pipeline     │
 ├─────────────────────────────────────────────────────────────────┤
 │  SURVEYMONKEY       │  Enterprise Account Mgr   │  $300M+       │
