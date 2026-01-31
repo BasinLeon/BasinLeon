@@ -17,7 +17,7 @@
 ## 💭 About
 
 > **"I Build Revenue Systems That Scale Revenue, Not Teams"**  
-> *I don't just sell technology — I engineer governed GTM infrastructure.*
+> *Director of GTM Systems | Principal Revenue Architect | Building ‘Signal Refineries’ for Series A-C*
 
 **15+ years GTM leadership.** Google, SurveyMonkey, HP, NetApp.
 
@@ -44,7 +44,7 @@ Building governed systems that deploy human capital on high-value activities.
 | **Career Impact** | **Technical Output** |
 |:---:|:---:|
 | **$23M+** Career Pipeline | **83,000+** Lines of Code |
-| **160%** Pipeline Growth YoY | **19** Public Repositories |
+| **160%** Pipeline Growth YoY | **26+** Public Repositories |
 | **$424K** Annual Savings (Case Study) | **5** LLMs Orchestrated |
 | **77** Meetings/Month (+71%) | **10+** Live Tools |
 | **5 Days** SDR Ramp Time | **7+** Blog Posts |
@@ -139,6 +139,14 @@ A practitioner's thesis on the shift from volume-based GTM to signal-based Reven
 
 ---
 
+## 🔥 The Foundry: War Stories
+> *Real engineering for real people. The normalizing of deviance ends here.*
+
+- **[The GTM Safety System: Challenger / O-Ring Case Study](./WAR_STORIES/01_challenger_o_ring.md)** — Why we accept 0.05% reply rates and how to fix the O-rings.
+
+---
+
+
 ## 🎯 Case Studies
 
 <div align="center">
@@ -161,21 +169,21 @@ A practitioner's thesis on the shift from volume-based GTM to signal-based Reven
 
 <div align="center">
 
-### 📊 [executive-brief-generator](https://github.com/BasinLeon/executive-brief-generator)
-**Executive Signal Brief Generator**  
-McKinsey-style pipeline documents  
-Transform data → Decision-grade briefs
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io/tools/) [![Stars](https://img.shields.io/github/stars/BasinLeon/executive-brief-generator?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/executive-brief-generator)
-
----
-
 ### ⚡ [basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine)
 **AI Career Intelligence Platform**  
 Python/Streamlit • 10,500+ lines  
 Hunt → Prep → Close
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-D4AF37?style=flat-square)](https://basin-nexus.streamlit.app) [![Stars](https://img.shields.io/github/stars/BasinLeon/basin-signal-engine?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/basin-signal-engine)
+
+---
+
+### 📊 [executive-brief-generator](https://github.com/BasinLeon/executive-brief-generator)
+**Executive Signal Brief Generator**  
+McKinsey-style pipeline documents  
+Transform data → Decision-grade briefs
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io/tools/) [![Stars](https://img.shields.io/github/stars/BasinLeon/executive-brief-generator?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/executive-brief-generator)
 
 ---
 
@@ -269,17 +277,17 @@ Interactive Query Console, NEXUS Intelligence
 | **Metric** | **Value** |
 |:---:|:---:|
 | **Lines of Code** | **83,000+** |
-| **Public Repositories** | **19** |
+| **Public Repositories** | **26** |
 | **LLMs Orchestrated** | **5** |
 | **Live Tools** | **10+** |
 | **Blog Posts** | **7+** |
 | **Frameworks** | **9** |
 
 **Top Languages:**
-- **Python:** 46% (Primary)
-- **TypeScript:** 24% (Frontend)
-- **JavaScript:** 13% (Scripting)
-- **HTML/CSS:** 17% (Web)
+**Python:** 46% (Primary) <br>
+**TypeScript:** 24% (Frontend) <br>
+**JavaScript:** 13% (Scripting) <br>
+**HTML/CSS:** 17% (Web)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BasinLeon&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 
