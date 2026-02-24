@@ -26,7 +26,7 @@ I code what I architect. Systems that multiply impact without multiplying headco
 
 ## 🎯 What I'm Seeking
 
-**Director-level GTM, RevOps, or GTM Engineering roles**
+**Lead GTM Engineer / Principal Revenue Architect roles**
 
 Building governed systems that deploy human capital on high-value activities.
 
@@ -38,7 +38,7 @@ Building governed systems that deploy human capital on high-value activities.
 
 | Career Impact | Technical Output |
 | :---: | :---: |
-| **$23M+** Career Pipeline | **83,000+** Lines of Code |
+| **$23M+** Career Pipeline | **700,000+** R&D Lines |
 | **160%** Pipeline Growth YoY | **26+** Public Repositories |
 | **$424K** Annual Savings (Case Study) | **5** LLMs Orchestrated |
 | **77** Meetings/Month (+71%) | **10+** Live Tools |
@@ -171,7 +171,7 @@ Detect buzzwords • Fix sales speak
 ### 🌐 [basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io)
 **Portfolio + AI Widgets**  
 Interactive Query Console, NEXUS Intelligence  
-83,000+ lines of code
+700,000+ R&D Lines
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-basinleon.github.io-D4AF37?style=flat-square)](https://basinleon.github.io) [![Stars](https://img.shields.io/github/stars/BasinLeon/basinleon.github.io?style=flat-square&labelColor=050508)](https://github.com/BasinLeon/basinleon.github.io)
 
@@ -236,7 +236,7 @@ Interactive Query Console, NEXUS Intelligence
 
 | Metric | Value |
 | :---: | :---: |
-| **Lines of Code** | **83,000+** |
+| **R&D Lines** | **700,000+** |
 | **Public Repositories** | **26** |
 | **LLMs Orchestrated** | **5** |
 | **Live Tools** | **10+** |
@@ -257,7 +257,7 @@ Interactive Query Console, NEXUS Intelligence
 
 **EXECUTIVE CAREER INTELLIGENCE OS**
 
-83,000+ lines across Python, JavaScript, TypeScript, React, Streamlit
+700,000+ R&D lines across Python, JavaScript, TypeScript, React, Streamlit
 
 | Module | Description |
 | :--- | :--- |
