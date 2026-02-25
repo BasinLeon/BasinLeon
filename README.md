@@ -38,7 +38,7 @@ Building governed systems that deploy human capital on high-value activities.
 
 | Career Impact | Technical Output |
 | :---: | :---: |
-| **$23M+** Career Pipeline | **700,000+** R&D Lines |
+| **$30M+** Career Pipeline | **700,000+** R&D Lines |
 | **160%** Pipeline Growth YoY | **26+** Public Repositories |
 | **$424K** Annual Savings (Case Study) | **5** LLMs Orchestrated |
 | **77** Meetings/Month (+71%) | **10+** Live Tools |
