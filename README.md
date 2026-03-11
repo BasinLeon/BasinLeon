@@ -2,7 +2,7 @@
 
 **Founder-grade GTM engineer.**
 
-I build the systems under go-to-market: CRM logic, routing, enrichment, lifecycle automation, AI-assisted workflows, and the reporting layers that make revenue teams easier to trust.
+**I build the systems under go-to-market:** routing, lifecycle logic, enrichment, AI-assisted workflows, and operator tooling that remove manual drag and make revenue execution easier to trust.
 
 [![Website](https://img.shields.io/badge/Website-basinleon.github.io-D4AF37?style=for-the-badge)](https://basinleon.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Basin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leonbasin)
