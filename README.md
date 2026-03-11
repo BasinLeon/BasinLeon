@@ -9,9 +9,6 @@
 [![Case Studies](https://img.shields.io/badge/Case%20Studies-Live-D4AF37?style=for-the-badge)](https://basinleon.github.io/case-studies/)
 [![Contact](https://img.shields.io/badge/Contact-lbasin23%40gmail.com-111111?style=for-the-badge&logo=gmail)](mailto:lbasin23@gmail.com)
 
-San Francisco Bay Area  
-Ex-Google, SurveyMonkey, Fudo
-
 ## What I Actually Do
 
 - Build routing, enrichment, and lifecycle systems that remove manual GTM drag.
