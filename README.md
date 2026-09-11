@@ -1,68 +1,35 @@
 # Leon Basin
 
-**Founder-grade GTM engineer.**
+**Operator. Seller. Writer. Builder.**
 
-**I build the systems under go-to-market:** routing, lifecycle logic, enrichment, AI-assisted workflows, and operator tooling that remove manual drag and make revenue execution easier to trust.
+I build systems that compound. I write about what machines cannot replace.
 
-[![Website](https://img.shields.io/badge/Website-basinleon.github.io-D4AF37?style=for-the-badge)](https://basinleon.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Basin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leonbasin)
-[![Case Studies](https://img.shields.io/badge/Case%20Studies-Live-D4AF37?style=for-the-badge)](https://basinleon.github.io/case-studies/)
-[![Contact](https://img.shields.io/badge/Contact-lbasin23%40gmail.com-111111?style=for-the-badge&logo=gmail)](mailto:lbasin23@gmail.com)
+## Now
 
-## What I Actually Do
+- Founding GTM at Obvio.ai: public-sector market entry across Colorado and Northern California, built from zero.
+- Running Basin & Associates, an outbound/SDR agency for B2B teams.
+- Writing [Leon Basin](https://substack.com/@leonbasin) on Substack: field notes on work, fatherhood, faith, and the systems we build to make a life. 5,000+ subscribers.
+- Booking 90-minute Revenue Working Sessions for founder-led B2B teams: [basinleon.github.io/work-with-me/](https://basinleon.github.io/work-with-me/)
 
-- Build routing, enrichment, and lifecycle systems that remove manual GTM drag.
-- Connect APIs, AI tools, CRMs, and operator workflows into one usable commercial system.
-- Translate between sales, marketing, product, and engineering without turning the work into consultant theater.
-- Ship artifacts teams can inspect: live tools, interfaces, case studies, and operating models.
+## Proof
 
-## Selected Proof
+From my own operating record:
 
-| Outcome | Context |
-| --- | --- |
-| **160% YoY pipeline growth** | Signal-based GTM operating model at Fudo |
-| **$424K annual savings** | Replaced repetitive research and routing work with automation |
-| **$10M+ qualified pipeline supported** | GTM systems and outbound infrastructure at Sense |
-| **$300M+ account portfolio** | Enterprise account ownership at SurveyMonkey |
-| **700K+ R&D lines** | Python, JavaScript, TypeScript, HTML/CSS across public and private build work |
+| Where | What |
+|---|---|
+| SurveyMonkey, Enterprise BD (2019-21) | Managed a $300M+ enterprise portfolio. Closed $300K+ in expansion sales. |
+| Sense, Group Manager, Global BD (2021-23) | $10M+ qualified pipeline from GTM systems and outbound infrastructure. |
+| Fudo Security, Sr. Manager, U.S. GTM & Partnerships (2024-26) | $2M+ U.S. expansion pipeline from a signal-based GTM operating model. |
+| Obvio.ai, founding GTM (2026-) | Building the public-sector GTM motion from zero. |
 
-## Systems I Build
+## What I build here
 
-| Area | Example Work |
-| --- | --- |
-| **CRM and workflow logic** | Salesforce, HubSpot, lifecycle stages, handoff rules, routing logic |
-| **Data and enrichment** | Clay, APIs, signal capture, account research, structured inputs |
-| **AI-assisted GTM** | Qualification support, personalization workflows, operating copilots |
-| **Operator interfaces** | Dashboards, practice tools, system monitors, decision support layers |
+Pinned below: revenue architecture tooling, outreach filters, LLM-assisted scripting, and my operator environment. Everything here is meant to be inspected, not admired.
 
-## Selected Repositories
+## Find me
 
-- [basinleon.github.io](https://github.com/BasinLeon/basinleon.github.io): public site, systems portfolio, case studies, and GTM tooling entry point
-- [basin-signal-engine](https://github.com/BasinLeon/basin-signal-engine): AI career intelligence platform built in Python and Streamlit
-- [bs-detector](https://github.com/BasinLeon/bs-detector): technical-sales credibility filter for outreach review
-- [lead-script-generator](https://github.com/BasinLeon/lead-script-generator): LLM-assisted outbound scripting with signal inputs
-- [Basin-Operator](https://github.com/BasinLeon/Basin-Operator): operator environment built from the OpenClaw fork
-
-## Background
-
-My career started in operations and enterprise sales, then moved deeper into RevOps, GTM systems, and automation. The through-line is simple: I like fixing the commercial system underneath the motion, not just running the motion harder.
-
-That includes:
-
-- Google: data quality, process reliability, operational discipline
-- SurveyMonkey: enterprise account rigor and stakeholder management
-- Sense: GTM systems and outbound infrastructure in a growth-stage environment
-- Fudo: signal-driven GTM systems that improved pipeline quality and speed
-
-## What I Am Looking For
-
-Founding GTM Engineer, GTM Systems, Revenue Systems, and builder-first operator roles where the company needs someone who can both think through the commercial architecture and wire the system.
-
-## Start Here
-
-- [Case studies](https://basinleon.github.io/case-studies/)
-- [Writing and working notes](https://basinleon.github.io/docs/)
-- [Resume](https://basinleon.github.io/resume.html)
-- [Main site](https://basinleon.github.io)
-
-## basinleon.github.io
+- Site and permanent record: [basinleon.github.io](https://basinleon.github.io)
+- Writing: [substack.com/@leonbasin](https://substack.com/@leonbasin)
+- Instagram: [@leonbasinwriter](https://instagram.com/leonbasinwriter)
+- X: [@leonbasinwriter](https://x.com/leonbasinwriter)
+- LinkedIn: [linkedin.com/in/leonbasin](https://linkedin.com/in/leonbasin)
