@@ -28,7 +28,7 @@ Pinned below: revenue architecture tooling, outreach filters, LLM-assisted scrip
 
 ## Find me
 
-- Site and permanent record: [basinleon.github.io](https://basinleon.github.io)
+- Workshop: [basinleon.github.io](https://basinleon.github.io)
 - Writing: [substack.com/@leonbasin](https://substack.com/@leonbasin)
 - Instagram: [@leonbasinwriter](https://instagram.com/leonbasinwriter)
 - X: [@leonbasinwriter](https://x.com/leonbasinwriter)
