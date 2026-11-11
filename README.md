@@ -7,7 +7,6 @@ I build systems that compound. I write about what machines cannot replace.
 ## Now
 
 - Founding GTM at Obvio.ai: public-sector market entry across Colorado and California statewide, built from zero.
-- Running Basin & Associates, an outbound/SDR agency for B2B teams.
 - Writing [Leon Basin](https://substack.com/@leonbasin) on Substack: field notes on work, fatherhood, faith, and the systems we build to make a life. 5,000+ subscribers.
 - Booking 90-minute Revenue Working Sessions for founder-led B2B teams: [basinleon.github.io/work-with-me/](https://basinleon.github.io/work-with-me/)
 
