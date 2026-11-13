@@ -25,7 +25,15 @@ From my own operating record:
 
 ## What I build here
 
-Pinned below: revenue architecture tooling, outreach filters, LLM-assisted scripting, and my operator environment. Everything here is meant to be inspected, not admired.
+Start with these three original projects. Each links to code and a way to inspect the result.
+
+| Project | What to inspect |
+|---|---|
+| [Website & Writing Library](https://github.com/BasinLeon/basinleon.github.io) | Live portfolio, essays, Sam & Ink fiction, and the source behind them. [Visit the site](https://basinleon.github.io/). |
+| [Basin Signal Architect](https://github.com/BasinLeon/gtm-signal-architect) | CSV signal review, transparent priority rules, and template-based drafts. Includes synthetic input/output and a local Streamlit demo. |
+| [Lead Script Generator](https://github.com/BasinLeon/lead-script-generator) | Rule-based email and LinkedIn drafting. Includes synthetic examples, a screenshot, and setup instructions. |
+
+My forks are learning and exploration copies; original authorship stays with their upstream projects. The two tools above currently use rules and templates, without LLM API calls.
 
 ## Find me
 
