@@ -30,7 +30,7 @@ Start with these three original projects. Each links to code and a way to inspec
 | Project | What to inspect |
 |---|---|
 | [Website & Writing Library](https://github.com/BasinLeon/basinleon.github.io) | Live portfolio, essays, Sam & Ink fiction, and the source behind them. [Visit the site](https://basinleon.github.io/). |
-| [Basin Signal Architect](https://github.com/BasinLeon/gtm-signal-architect) | CSV signal review, transparent priority rules, and template-based drafts. Includes synthetic input/output and a local Streamlit demo. |
+| [Basin Signal Architect](https://github.com/BasinLeon/gtm-signal-architect) | CSV signal review, transparent priority rules, and template-based drafts. [Try the browser demo](https://basinleon.github.io/signal-architect/), or run the Python/Streamlit app with synthetic input/output. |
 | [Lead Script Generator](https://github.com/BasinLeon/lead-script-generator) | Rule-based email and LinkedIn drafting. Includes synthetic examples, a screenshot, and setup instructions. |
 
 My forks are learning and exploration copies; original authorship stays with their upstream projects. The two tools above currently use rules and templates, without LLM API calls.
