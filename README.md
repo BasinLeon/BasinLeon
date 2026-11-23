@@ -30,7 +30,7 @@ Inspectable GTM systems and browser-runnable tools. Every link opens either live
 | Project | What to inspect |
 |---|---|
 | [Website & Writing Library](https://github.com/BasinLeon/basinleon.github.io) | Founding GTM dossier, case studies, interactive tools, 102 essays, Plays, and *Sam & Ink* fiction. [Visit the site](https://basinleon.github.io/). |
-| [Basin::Nexus](https://basinleon.github.io/basin-nexus/) | Four-stage signal-to-action operating model: raw signal, judgment, commercial action, and learning loop. |
+| [Flow::Nexus](https://basinleon.github.io/basin-nexus/) | Four-stage signal-to-action operating model: raw signal, judgment, commercial action, and learning loop. |
 | [Basin Signal Architect](https://github.com/BasinLeon/gtm-signal-architect) | Transparent P0-P3 account priority logic and CSV signal review. [Run the live browser scorer](https://basinleon.github.io/signal-architect/#custom-scorer). |
 | [GTM Motion Diagnostic & Revenue Simulator](https://basinleon.github.io/tools/) | Interactive 4-pillar [Motion Diagnostic](https://basinleon.github.io/diagnostic.html) and [Revenue Architecture Simulator](https://basinleon.github.io/revenue_architecture_simulator.html). |
 | [Lead Script Generator](https://github.com/BasinLeon/lead-script-generator) | Rule-based email and LinkedIn drafting with synthetic examples and setup instructions. |
